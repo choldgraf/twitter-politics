@@ -460,3 +460,8 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
         padding:0px;
         margin:0px;
     }
+
+    /* Custom CSS */
+    #banner nav{
+    	padding-top: 15px;
+    }
