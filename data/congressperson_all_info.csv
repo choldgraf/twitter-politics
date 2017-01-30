@@ -1,534 +1,475 @@
-,body,end,name,party,state,yrs,district,conf,handle,twitter_name
-445,house,"january 3, 2019",robert brady,democratic,pennsylvania,19,1,76.0,RepBrady,bob brady
-119,house,"january 3, 2019",annie kuster,democratic,new hampshire,4,2,76.0,RepAnnieKuster,ann mclane kuster
-461,house,"january 3, 2019",sam graves,republican,missouri,16,6,80.0,RepTomGraves,tom graves
-166,house,"january 3, 2019",charles w. dent,republican,pennsylvania,12,15,81.0,RepCharlieDent,charlie dent
-109,house,"january 3, 2019",alexander mooney,republican,virginia,2,2,81.0,RepAlexMooney,alex mooney
-482,house,"january 3, 2019",steve russell,republican,oklahoma,2,5,82.0,RepRussell,steve rll
-421,house,"january 3, 2019",peter t. king,republican,new york,24,2,82.0,RepPeteKing,pete king
-372,house,"january 3, 2019",mark walker,republican,north carolina,2,6,82.0,MarkWarner,mark warner
-434,house,"january 3, 2019",richard hudson,republican,north carolina,4,8,83.0,RepRichHudson,richard hn
-521,house,"january 3, 2019",tulsi gabbard,democratic,hawaii,4,2,84.0,TulsiPress,t gabbard
-476,house,"january 3, 2019",stephen knight,republican,california,2,25,85.0,SteveKnight25,steve knight
-116,house,"january 3, 2019",andy biggs,republican,arizona,0,5,86.0,RepAndyHarrisMD,"andy harris, md"
-190,house,"january 3, 2019",david joyce,republican,ohio,4,14,86.0,RepDaveJoyce,dave joyce
-117,house,"january 3, 2019",ann wagner,republican,missouri,4,2,86.0,RepAnnieKuster,ann mclane kuster
-347,house,"january 3, 2019",linda sanchez,democratic,california,14,38,86.0,RepLindaSanchez,linda t. sánchez
-384,house,"january 3, 2019",michael f. doyle,democratic,pennsylvania,22,14,86.0,USRepMikeDoyle,mike doyle
-188,house,"january 3, 2019",david brat,republican,virginia,3,7,86.0,RepMcKinley,david b. mckinley
-226,house,"january 3, 2019",eddie bernice johnson,democratic,texas,24,30,86.0,SamsPressShop,sam johnson
-356,house,"january 3, 2019",louise slaughter,democratic,new york,30,25,86.0,louiseslaughter,lo slaughter
-492,house,"january 3, 2019",theodore e. deutch,democratic,florida,7,22,86.0,RepTedDeutch,ted deutch
-48,senate,"january 3, 2023",john neely kennedy,republican,louisiana,0,,86.0,SenJohnKennedy,john kennedy
-499,house,"january 3, 2019",thomas j. rooney,republican,florida,8,17,86.0,TomRooney,tom rooney
-394,house,"january 3, 2019",mike johnson,republican,louisiana,0,4,86.0,SenMikeLee,mike lee
-326,house,"january 3, 2019",karen bass,democratic,california,6,37,86.0,RepKarenBass,congressmember bass
-355,house,"january 3, 2019","louis b. ""louie"" gohmert jr.",republican,texas,12,1,86.0,RepJohnDuncanJr,john duncan jr.
-234,house,"january 3, 2019",erik paulsen,republican,minnesota,8,3,86.0,RepErikPaulsen,erik pan
-411,house,"january 3, 2019",patrick j. tiberi,republican,ohio,17,12,86.0,PatTiberi,pat tiberi
-293,house,"january 3, 2019",jim sensenbrenner,republican,wisconsin,38,5,86.0,RepJimBanks,jim banks
-378,house,"january 3, 2019",matt gaetz,republican,florida,0,1,86.0,RepCartwright,matt cartwright
-511,house,"january 3, 2019",tom o'halleran,democratic,arizona,0,1,86.0,RepTomEmmer,tom emmer
-142,house,"january 3, 2019",robert e. latta,republican,ohio,10,5,86.0,boblatta,bob latta
-301,house,"january 3, 2019",john carter,republican,texas,14,31,86.0,SenJohnBarrasso,sen. john barrasso
-390,house,"january 3, 2019","michael ""mick"" mulvaney",republican,south carolina,6,budget,86.0,RepMikeCapuano,michael capuano
-227,house,"january 3, 2019",edward royce,republican,california,24,39,86.0,RepEdRoyce,ed royce
-197,house,"january 3, 2019",david trott,republican,michigan,2,11,86.0,repdavetrott,dave trott
-313,house,"january 3, 2019",john rutherford,republican,florida,0,4,86.0,RepJohnFaso,john faso
-14,senate,"january 3, 2019",christopher s. murphy,democratic,connecticut,4,,86.0,RepAdams,alma s. adams
-223,house,"january 3, 2019","earl ""buddy"" carter",republican,georgia,2,1,86.0,RepBuddyCarter,buddy carter
-471,house,"january 3, 2019",sean maloney,democratic,new york,4,18,86.0,RepSeanMaloney,sean patrick maloney
-358,house,"january 3, 2019",luis v. gutierrez,democratic,illinois,24,4,87.0,RepGutierrez,lv. gutierrez
-318,house,"january 3, 2019",joseph crowley,democratic,new york,18,14,88.0,repjoecrowley,joe crowley
-179,house,"january 3, 2019",daniel donovan,republican,new york,2,11,88.0,dandonovan_ny,dan donovan
-423,house,"january 3, 2019",peter j. visclosky,democratic,indiana,32,1,88.0,RepVisclosky,pete visclosky
-450,house,"january 3, 2019",rodney frelinghuysen,republican,new jersey,22,11,89.0,USRepRodney,rodney frelinghn
-201,house,"january 3, 2019",debbie wasserman schultz,democratic,florida,12,23,89.0,RepDWStweets,d. wasserman schultz
-382,house,"january 3, 2019",michael c. burgess,republican,texas,14,26,89.0,michaelcburgess,"michael burgess, md"
-448,house,"january 3, 2017",rod blum,republican,iowa,2,1,90.0,RepRodBlum,congressman rod blum
-366,house,"january 3, 2019",mark amodei,republican,nevada,6,2,90.0,MarkAmodeiNV2,arkamodei
-466,house,"january 3, 2019",scott perry,republican,pennsylvania,4,4,90.0,RepScottPerry,cottperry
-413,house,"january 3, 2019",paul gosar,republican,arizona,6,4,90.0,RepGosar,"paul gosar, dds"
-12,senate,"january 3, 2023",catherine cortez masto,democratic,nevada,0,,90.0,SenCortezMasto,cortez masto
-296,house,"january 3, 2019",jodey arrington,republican,texas,0,19,90.0,RepArrington,arrington
-105,house,"january 3, 2019",al green,democratic,texas,12,9,90.0,RepAlGreen,congressman al green
-425,house,"january 3, 2019",phil roe,republican,tennessee,8,1,90.0,DrPhilRoe,dr. phil roe
-336,house,"january 3, 2019",kevin brady,republican,texas,20,8,90.0,RepKevinBrady,evinbrady
-333,house,"january 3, 2019",ken buck,republican,colorado,2,4,90.0,RepKenBuck,congressman ken buck
-112,house,"january 3, 2019",ami bera,democratic,california,4,7,90.0,RepBera,congressman ami bera
-126,house,"january 3, 2019",bennie thompson,democratic,mississippi,6,2,90.0,BennieGThompson,thompson
-282,house,"january 3, 2019",jerrold nadler,democratic,new york,24,10,90.0,RepJerryNadler,((( nadler)))
-357,house,"january 3, 2019",lucille roybal-allard,democratic,california,24,40,90.0,RepRoybalAllard,roybal-allard
-501,house,"january 3, 2019",tim ryan,democratic,ohio,14,13,90.0,RepTimRyan,congressman tim ryan
-281,house,"january 3, 2019",jeffrey fortenberry,republican,nebraska,12,1,91.0,JeffFortenberry,jeff fortenberry
-319,house,"january 3, 2019",joseph kennedy iii,democratic,massachusetts,4,4,91.0,RepJoeKennedy,joe kennedy iii
-245,house,"january 7, 2017",garett graves,republican,louisiana,2,6,92.0,RepGarretGraves,garret graves
-514,house,"january 3, 2019",tom rice,republican,south carolina,4,7,94.0,RepTomPrice,tom price
-114,house,"january 3, 2019",andy harris,republican,maryland,6,1,95.0,RepAndyHarrisMD,"andy harris, md"
-251,house,"january 3, 2019",glenn thompson,republican,pennsylvania,8,5,95.0,CongressmanGT,glenn 'gt' thompson
-96,senate,"january 3, 2023",todd c. young,republican,indiana,0,,95.0,SenToddYoung,todd young
-248,house,"january 3, 2019",george e.b. holding,republican,north carolina,4,2,95.0,RepHolding,george holding
-305,house,"january 3, 2019","john j. duncan, jr.",republican,tennessee,28,2,95.0,RepJohnDuncanJr,john duncan jr.
-202,house,"january 3, 2019",dennis a. ross,republican,florida,6,15,95.0,RepDennisRoss,dennis ross
-455,house,"january 3, 2019",rosa l. delauro,democratic,connecticut,26,3,95.0,rosadelauro,rosa delauro
-422,house,"january 3, 2019",peter j. roskam,republican,illinois,10,6,95.0,PeterRoskam,peter roskam
-409,house,"january 3, 2019",patrick t. mchenry,republican,north carolina,12,10,95.0,PatrickMcHenry,patrick mchenry
-239,house,"january 3, 2019",frank d. lucas,republican,oklahoma,24,3,95.0,RepFrankLucas,frank lucas
-162,house,"january 3, 2019",cathy mcmorris rodgers,republican,washington,12,5,95.0,cathymcmorris,cathymcmorrisrodgers
-436,house,"january 3, 2017",rick allen,republican,georgia,2,12,95.0,RepRickAllen,rick w. allen
-449,house,"january 3, 2019",rodney davis,republican,illinois,4,13,95.0,RodneyDavis,us rodney davis
-134,house,"january 3, 2019",bill pascrell,democratic,new jersey,4,9,95.0,BillPascrell,"bill pascrell, jr."
-236,house,"january 3, 2019",filemon vela,democratic,texas,4,34,95.0,RepFilemonVela,us  filemon vela
-228,house,"january 3, 2019",elijah cummings,democratic,maryland,21,7,95.0,RepCummings,elijah e. cummings
-242,house,"january 3, 2019",frederica s. wilson,democratic,florida,6,24,95.0,RepWilson,frederica wilson
-118,house,"january 3, 2019",anna eshoo,democratic,california,24,18,95.0,RepAnnaEshoo,anna g. eshoo
-111,house,"january 3, 2019",alma adams,democratic,north carolina,3,12,95.0,RepAdams,alma s. adams
-361,house,"january 3, 2019",mac thornberry,republican,texas,22,13,95.0,MacTXPress,mac thornberry press
-431,house,"january 3, 2019",raul grijalva,democratic,arizona,14,3,95.0,RepRaulGrijalva,raul m. grijalva
-439,house,"january 3, 2019",rick nolan,democratic,minnesota,4,8,95.0,USRepRickNolan,us  rick nolan
-340,house,"january 3, 2019",kristi l. noem,republican,south dakota,6,,95.0,RepKristiNoem,kristi noem
-89,senate,"january 3, 2019",tammy baldwin,democratic,wisconsin,4,,95.0,SenatorBaldwin,sen. tammy baldwin
-53,senate,"january 3, 2023",kamala d. harris,democratic,california,0,,95.0,KamalaHarris,kamala harris
-348,house,"january 3, 2019",lisa blunt rochester,democratic,delaware,0,,95.0,RepBRochester,blunt rochester
-328,house,"january 3, 2019",kathleen m. rice,democratic,new york,2,4,95.0,RepKathleenRice,kathleen rice
-45,senate,"january 3, 2021",john cornyn,republican,texas,14,,95.0,JohnCornyn,johncornyn
-496,house,"january 3, 2019",terri sewell,democratic,alabama,6,7,95.0,RepTerriSewell,terri a. sewell
-43,senate,"january 3, 2019",john barrasso,republican,wyoming,10,,95.0,SenJohnBarrasso,sen. john barrasso
-42,senate,"january 3, 2019",joe manchin iii,democratic,west virginia,7,,95.0,Sen_JoeManchin,joe manchin
-37,senate,"january 3, 2021",jeff sessions,republican,,20,,95.0,SenatorSessions,sen. jeff sessions
-34,senate,"january 3, 2021",jeanne shaheen,democratic,new hampshire,8,,95.0,SenatorShaheen,sen. jeanne shaheen
-33,senate,"january 3, 2023",james lankford,republican,oklahoma,2,,95.0,SenatorLankford,sen. james lankford
-189,house,"january 3, 2019",david n. cicilline,democratic,rhode island,6,1,95.0,davidcicilline,david cicilline
-31,senate,"january 3, 2019",heidi heitkamp,democratic,north dakota,4,,95.0,SenatorHeitkamp,sen. heidi heitkamp
-192,house,"january 3, 2019",david mckinley,republican,virginia,6,1,95.0,RepMcKinley,david b. mckinley
-26,senate,"january 3, 2019",dianne feinstein,democratic,california,24,,95.0,SenFeinstein,sen dianne feinstein
-316,house,"january 3, 2019",john a. yarmuth,democratic,kentucky,10,3,95.0,RepJohnYarmuth,john yarmuth
-193,house,"january 3, 2019",david price,democratic,north carolina,20,4,95.0,RepDavidEPrice,david e. price
-11,senate,"january 3, 2023",brian e. schatz,democratic,hawaii,5,,95.0,brianschatz,brian schatz
-8,senate,"january 3, 2019","bob casey, jr.",democratic,pennsylvania,10,,95.0,SenBobCasey,bob casey
-389,house,"january 3, 2019",michelle lujan grisham,democratic,new mexico,4,1,95.0,RepLujanGrisham,michellelujangrisham
-198,house,"january 3, 2019",david g. valadao,republican,california,4,21,95.0,RepDavidValadao,david valadao
-527,house,"january 3, 2019",walter b. jones,republican,north carolina,22,3,95.0,RepWalterJones,walter jones
-55,senate,"january 3, 2021",lamar alexander,republican,tennessee,14,,95.0,SenAlexander,sen. lamar alexander
-182,house,"january 3, 2019",danny k. davis,democratic,illinois,20,7,95.0,RepDannyDavis,danny davis
-329,house,"january 3, 2019",kathy castor,democratic,florida,10,14,95.0,USRepKCastor,us kathy castor
-58,senate,"january 3, 2023",maggie hassan,democratic,new hampshire,0,,95.0,SenatorHassan,sen. maggie hassan
-403,house,"january 3, 2019",nanette barragan,democratic,california,0,44,95.0,RepBarragan,nanette d. barragan
-404,house,"january 3, 2019",neal dunn,republican,florida,0,2,95.0,DrNealDunnFL2,dr. neal dunn
-73,senate,"january 3, 2023",patrick leahy,democratic,vermont,42,,95.0,SenatorLeahy,sen. patrick leahy
-268,house,"january 3, 2019",jaime herrera beutler,republican,washington,6,3,95.0,HerreraBeutler,jaimeherrerabeutler
-64,senate,"january 3, 2023",michael bennet,democratic,colorado,8,,95.0,SenBennetCO,michael f. bennet
-63,senate,"january 3, 2019",mazie k. hirono,democratic,hawaii,4,,95.0,maziehirono,mazie hirono
-257,house,"january 3, 2019",gus m. bilirakis,republican,florida,10,12,95.0,RepGusBilirakis,gus bilirakis
-60,senate,"january 3, 2019",maria cantwell,democratic,washington,16,,95.0,SenatorCantwell,sen. maria cantwell
-256,house,"january 3, 2019",gregory w. meeks,democratic,new york,4,5,95.0,GregoryMeeks,gregory meeks
-88,senate,"january 3, 2021",susan collins,republican,maine,20,,95.0,SenatorCollins,sen. susan collins
-487,house,"january 3, 2019",susan brooks,republican,indiana,4,5,95.0,SusanWBrooks,susan w. brooks
-486,house,"january 3, 2019",steven palazzo,republican,mississippi,6,4,95.0,CongPalazzo,cong. steven palazzo
-57,senate,"january 3, 2023",lisa murkowski,republican,alaska,14,,95.0,lisamurkowski,sen. lisa murkowski
-113,house,"january 3, 2019",andre carson,democratic,indiana,9,7,96.0,RepAndreCarson,andré carson
-16,senate,"january 3, 2023",chuck grassley,republican,iowa,36,,96.0,ChuckGrassley,chuckgrassley
-516,house,"january 3, 2019",tony cardenas,democratic,california,4,29,96.0,RepCardenas,tony cárdenas
-408,house,"january 3, 2019",nydia velázquez,democratic,new york,24,7,97.0,NydiaVelazquez,nydia velazquez
-317,house,"january 3, 2019",josé e. serrano,democratic,new york,26,15,97.0,RepJoseSerrano,jose e. serrano
-432,house,"january 3, 2019",raul r. labrador,republican,idaho,6,1,97.0,Raul_Labrador,raúl r. labrador
-244,house,"january 3, 2019",g.k. butterfield,democratic,north carolina,13,1,97.0,GKButterfield,g. k. butterfield
-161,house,"january 3, 2019",carolyn b. maloney,democratic,new york,24,12,97.0,RepMaloney,carolyn  b. maloney
-214,house,"january 3, 2019","donald payne, jr.",democratic,new jersey,4,10,97.0,RepDonaldPayne,donald payne jr.
-145,house,"january 3, 2019",bonnie watson coleman,democratic,new jersey,2,12,98.0,RepBonnie,bonnie watsoncoleman
-370,house,"january 3, 2019",mark sanford,republican,south carolina,4,1,100.0,RepSanfordSC,mark sanford
-379,house,"january 3, 2019",maxine waters,democratic,california,26,43,100.0,MaxineWaters,maxine waters
-373,house,"january 3, 2019",markwayne mullin,republican,oklahoma,4,2,100.0,RepMullin,markwayne mullin
-371,house,"january 3, 2019",mark takano,democratic,california,4,41,100.0,RepMarkTakano,mark takano
-380,house,"january 3, 2019",mia love,republican,utah,2,4,100.0,RepMiaLove,mia love
-377,house,"january 3, 2019",matt cartwright,democratic,pennsylvania,4,17,100.0,RepCartwright,matt cartwright
-381,house,"january 3, 2019",mike bishop,republican,michigan,2,8,100.0,RepMikeBishop,mike bishop
-376,house,"january 3, 2019",martha roby,republican,alabama,6,2,100.0,RepMarthaRoby,martha roby
-375,house,"january 3, 2019",martha mcsally,republican,arizona,2,2,100.0,RepMcSally,martha mcsally
-369,house,"january 3, 2019",mark pocan,democratic,wisconsin,4,2,100.0,repmarkpocan,mark pocan
-374,house,"january 3, 2019",marsha blackburn,republican,tennessee,14,7,100.0,MarshaBlackburn,marsha blackburn
-383,house,"january 3, 2019",michael capuano,democratic,massachusetts,18,7,100.0,RepMikeCapuano,michael capuano
-368,house,"january 3, 2019",mark meadows,republican,north carolina,4,11,100.0,RepMarkMeadows,mark meadows
-0,senate,"january 3, 2021",al franken,democratic,minnesota,8,,100.0,alfranken,al franken
-365,house,"january 3, 2019",mario diaz-balart,republican,florida,6,25,100.0,MarioDB,mario diaz-balart
-331,house,"january 3, 2019",keith ellison,democratic,minnesota,10,5,100.0,keithellison,keith ellison
-330,house,"january 3, 2019",kay granger,republican,texas,20,12,100.0,RepKayGranger,kay granger
-327,house,"january 3, 2019",katherine clark,democratic,massachusetts,4,5,100.0,RepKClark,katherine clark
-325,house,"january 3, 2019",justin amash,republican,michigan,6,3,100.0,justinamash,justin amash
-324,house,"january 3, 2019",julia brownley,democratic,california,4,26,100.0,JuliaBrownley26,julia brownley
-323,house,"january 3, 2019",judy chu,democratic,california,8,27,100.0,RepJudyChu,judy chu
-322,house,"january 3, 2019",juan vargas,democratic,california,4,51,100.0,RepJuanVargas,juan vargas
-332,house,"january 3, 2019",keith rothfus,republican,pennsylvania,4,12,100.0,KeithRothfus,keith rothfus
-321,house,"january 3, 2019",joyce beatty,democratic,ohio,4,3,100.0,RepBeatty,joyce beatty
-315,house,"january 3, 2019",john shimkus,republican,illinois,20,15,100.0,RepShimkus,john shimkus
-314,house,"january 3, 2019",john sarbanes,democratic,maryland,10,3,100.0,RepSarbanes,john sarbanes
-312,house,"january 3, 2019",john ratcliffe,republican,texas,2,4,100.0,RepRatcliffe,john ratcliffe
-311,house,"january 3, 2019",john moolenaar,republican,michigan,2,4,100.0,RepMoolenaar,john moolenaar
-310,house,"january 3, 2019",john lewis,democratic,georgia,30,5,100.0,repjohnlewis,john lewis
-309,house,"january 3, 2019",john larson,democratic,connecticut,18,1,100.0,RepJohnLarson,john larson
-308,house,"january 3, 2019",john katko,republican,new york,2,24,100.0,RepJohnKatko,john katko
-320,house,"january 3, 2019",josh gottheimer,democratic,new jersey,0,5,100.0,RepJoshG,josh gottheimer
-334,house,"january 3, 2019",ken calvert,republican,california,24,42,100.0,KenCalvert,ken calvert
-335,house,"january 3, 2019",kenny marchant,republican,texas,12,24,100.0,RepKenMarchant,kenny marchant
-337,house,"january 3, 2019",kevin cramer,republican,north dakota,4,,100.0,RepKevinCramer,kevin cramer
-364,house,"january 3, 2019",marcy kaptur,democratic,ohio,34,9,100.0,RepMarcyKaptur,marcy kaptur
-363,house,"january 3, 2019",marcia l. fudge,democratic,ohio,8,11,100.0,RepMarciaFudge,marcia l. fudge
-362,house,"january 3, 2019",marc veasey,democratic,texas,4,33,100.0,RepVeasey,marc veasey
-360,house,"january 3, 2019",lynn jenkins,republican,kansas,8,2,100.0,RepLynnJenkins,lynn jenkins
-359,house,"january 3, 2019",luke messer,republican,indiana,4,6,100.0,RepLukeMesser,luke messer
-354,house,"january 3, 2019",lou correa,democratic,california,0,46,100.0,RepLouCorrea,lou correa
-353,house,"january 3, 2019",lou barletta,republican,pennsylvania,6,11,100.0,RepLouBarletta,lou barletta
-351,house,"january 3, 2019",lloyd smucker,republican,pennsylvania,0,16,100.0,RepSmucker,lloyd smucker
-350,house,"january 3, 2019",lloyd doggett,democratic,texas,22,35,100.0,RepLloydDoggett,lloyd doggett
-349,house,"january 3, 2019",liz cheney,republican,wyoming,0,,100.0,RepLizCheney,liz cheney
-346,house,"january 3, 2019",leonard lance,republican,new jersey,8,7,100.0,RepLanceNJ7,leonard lance
-345,house,"january 3, 2019",lee zeldin,republican,new york,2,1,100.0,RepLeeZeldin,lee zeldin
-343,house,"january 3, 2019",lamar smith,republican,texas,30,21,100.0,LamarSmithTX21,lamar smith
-342,house,"january 3, 2019",kyrsten sinema,democratic,arizona,4,9,100.0,RepSinema,kyrsten sinema
-341,house,"january 3, 2019",kurt schrader,democratic,oregon,8,5,100.0,RepSchrader,kurt schrader
-339,house,"january 3, 2019",kevin yoder,republican,kansas,6,3,100.0,RepKevinYoder,kevin yoder
-338,house,"january 3, 2019",kevin mccarthy,republican,california,10,23,100.0,GOPLeader,kevin mccarthy
-367,house,"january 3, 2019",mark desaulnier,democratic,california,2,11,100.0,RepDeSaulnier,mark desaulnier
-352,house,"january 3, 2019",lois frankel,democratic,florida,4,21,100.0,RepLoisFrankel,lois frankel
-419,house,"january 3, 2019",pete sessions,republican,texas,14,32,100.0,PeteSessions,pete sessions
-386,house,"january 3, 2019",michael mccaul,republican,texas,12,10,100.0,RepMcCaul,michael mccaul
-493,house,"january 3, 2019",ted lieu,democratic,california,2,33,100.0,RepTedLieu,ted lieu
-491,house,"january 3, 2019",ted budd,republican,north carolina,0,13,100.0,RepTedBudd,ted budd
-490,house,"january 3, 2019",suzanne bonamici,democratic,oregon,5,1,100.0,RepBonamici,suzanne bonamici
-489,house,"january 3, 2019",suzan delbene,democratic,washington,5,1,100.0,RepDelBene,suzan delbene
-488,house,"january 3, 2019",susan davis,democratic,california,16,53,100.0,RepSusanDavis,susan davis
-485,house,"january 3, 2019",steve womack,republican,arkansas,6,3,100.0,rep_stevewomack,steve womack
-484,house,"january 3, 2019",steve stivers,republican,ohio,6,15,100.0,RepSteveStivers,steve stivers
-483,house,"january 3, 2019",steve scalise,republican,louisiana,9,1,100.0,SteveScalise,steve scalise
-481,house,"january 3, 2019",steve pearce,republican,new mexico,6,2,100.0,RepStevePearce,steve pearce
-480,house,"january 3, 2019",steve king,republican,iowa,14,4,100.0,SteveKingIA,steve king
-479,house,"january 3, 2019",steve cohen,democratic,tennessee,10,9,100.0,RepCohen,steve cohen
-478,house,"january 3, 2019",steve chabot,republican,ohio,6,1,100.0,RepSteveChabot,steve chabot
-477,house,"january 3, 2019",stephen lynch,democratic,massachusetts,16,8,100.0,RepStephenLynch,stephen lynch
-475,house,"january 3, 2019",stephanie murphy,democratic,florida,0,7,100.0,RepStephMurphy,stephanie murphy
-474,house,"january 3, 2019",steny hoyer,democratic,maryland,36,5,100.0,WhipHoyer,steny hoyer
-473,house,"january 3, 2019",sheila jackson lee,democratic,texas,22,18,100.0,JacksonLeeTX18,sheila jackson lee
-472,house,"january 3, 2019",seth moulton,democratic,massachusetts,2,6,100.0,sethmoulton,seth moulton
-470,house,"january 3, 2019",sean duffy,republican,wisconsin,6,7,100.0,RepSeanDuffy,sean duffy
-469,house,"january 3, 2019",scott tipton,republican,colorado,6,3,100.0,RepTipton,scott tipton
-467,house,"january 3, 2019",scott peters,democratic,california,4,52,100.0,RepScottPeters,scott peters
-465,house,"january 3, 2019",scott desjarlais,republican,tennessee,6,4,100.0,DesJarlaisTN04,scott desjarlais
-494,house,"january 3, 2019",ted poe,republican,texas,12,2,100.0,JudgeTedPoe,ted poe
-464,house,"january 3, 2019","sanford bishop, jr",democratic,georgia,24,2,100.0,SanfordBishop,"sanford bishop, jr."
-495,house,"january 3, 2019",ted yoho,republican,florida,4,3,100.0,RepTedYoho,ted yoho
-500,house,"january 3, 2019",tim murphy,republican,pennsylvania,14,18,100.0,RepTimMurphy,tim murphy
-529,house,"january 3, 2019",will hurd,republican,texas,2,23,100.0,HurdOnTheHill,will hurd
-526,house,"january 3, 2019",virginia foxx,republican,north carolina,12,5,100.0,virginiafoxx,virginia foxx
-525,house,"january 3, 2019",vicky hartzler,republican,missouri,6,4,100.0,RepHartzler,vicky hartzler
-523,house,"january 3, 2019",vern buchanan,republican,florida,10,16,100.0,VernBuchanan,vern buchanan
-522,house,"january 3, 2019",val demings,democratic,florida,0,10,100.0,RepValDemings,val demings
-520,house,"january 3, 2019",trey hollingsworth,republican,indiana,0,9,100.0,RepTrey,trey hollingsworth
-519,house,"january 3, 2019",trey gowdy,republican,south carolina,6,4,100.0,TGowdySC,trey gowdy
-518,house,"january 3, 2019",trent kelly,republican,mississippi,2,1,100.0,RepTrentKelly,trent kelly
-517,house,"january 3, 2019",trent franks,republican,arizona,14,8,100.0,RepTrentFranks,trent franks
-515,house,"january 3, 2019",tom suozzi,democratic,new york,0,3,100.0,RepTomSuozzi,tom suozzi
-513,house,"january 3, 2019",tom reed,republican,new york,7,23,100.0,RepTomReed,tom reed
-512,house,"january 3, 2019",tom price,republican,georgia,12,6,100.0,RepTomPrice,tom price
-510,house,"january 3, 2019",tom mcclintock,republican,california,8,4,100.0,RepMcClintock,tom mcclintock
-509,house,"january 3, 2019",tom marino,republican,pennsylvania,6,10,100.0,RepTomMarino,tom marino
-508,house,"january 3, 2019",tom macarthur,republican,new jersey,2,3,100.0,RepTomMacArthur,tom macarthur
-507,house,"january 3, 2019",tom graves,republican,georgia,7,14,100.0,RepTomGraves,tom graves
-506,house,"january 7, 2017",tom emmer,republican,minnesota,2,6,100.0,RepTomEmmer,tom emmer
-505,house,"january 3, 2019",tom cole,republican,oklahoma,14,4,100.0,TomColeOK04,tom cole
-504,house,"january 3, 2019",todd rokita,republican,indiana,6,4,100.0,ToddRokita,todd rokita
-503,house,"january 3, 2019",tim walz,democratic,minnesota,10,1,100.0,RepTimWalz,tim walz
-502,house,"january 3, 2019",tim walberg,republican,michigan,6,7,100.0,RepWalberg,tim walberg
-498,house,"january 3, 2015",thomas massie,republican,kentucky,4,4,100.0,RepThomasMassie,thomas massie
-385,house,"january 3, 2019",mike gallagher,republican,wisconsin,0,8,100.0,RepGallagher,mike gallagher
-463,house,"january 3, 2019",sandy levin,democratic,michigan,34,9,100.0,repsandylevin,sandy levin
-460,house,"january 3, 2019",salud carbajal,democratic,california,0,24,100.0,RepCarbajal,salud carbajal
-418,house,"january 3, 2019",pete olson,republican,texas,8,22,100.0,RepPeteOlson,pete olson
-417,house,"january 3, 2019",pete aguilar,democratic,california,2,31,100.0,RepPeteAguilar,pete aguilar
-416,house,"january 3, 2019",paul tonko,democratic,new york,8,20,100.0,RepPaulTonko,paul tonko
-415,house,"january 3, 2019",paul ryan,republican,wisconsin,18,1,100.0,SpeakerRyan,paul ryan
-414,house,"january 3, 2019",paul mitchell,republican,michigan,0,10,100.0,RepPaulMitchell,paul mitchell
-412,house,"january 3, 2019",paul cook,republican,california,4,8,100.0,RepPaulCook,paul cook
-410,house,"january 3, 2019",patrick meehan,republican,pennsylvania,6,7,100.0,RepMeehan,patrick meehan
-407,house,"january 3, 2019",norma torres,democratic,california,2,35,100.0,NormaJTorres,norma torres
-406,house,"january 3, 2019",nita lowey,democratic,new york,28,17,100.0,NitaLowey,nita lowey
-405,house,"january 3, 2019",niki tsongas,democratic,massachusetts,10,3,100.0,nikiinthehouse,niki tsongas
-402,house,"january 3, 2019",nancy pelosi,democratic,california,30,12,100.0,NancyPelosi,nancy pelosi
-401,house,"january 3, 2019",morgan griffith,republican,virginia,6,9,100.0,RepMGriffith,morgan griffith
-400,house,"january 3, 2019",mo brooks,republican,alabama,6,5,100.0,RepMoBrooks,mo brooks
-399,house,"january 3, 2019",mimi walters,republican,california,2,45,100.0,RepMimiWalters,mimi walters
-398,house,"january 3, 2019",mike thompson,democratic,california,18,5,100.0,RepThompson,mike thompson
-397,house,"january 3, 2019",mike rogers,republican,alabama,14,3,100.0,RepMikeRogersAL,mike rogers
-396,house,"january 3, 2019",mike quigley,democratic,illinois,8,5,100.0,RepMikeQuigley,mike quigley
-395,house,"january 3, 2019",mike kelly,republican,pennsylvania,6,3,100.0,MikeKellyPA,mike kelly
-393,house,"january 3, 2019",mike conaway,republican,texas,12,11,100.0,ConawayTX11,mike conaway
-392,house,"january 3, 2019",mike coffman,republican,colorado,8,6,100.0,RepMikeCoffman,mike coffman
-391,house,"january 3, 2019",mike bost,republican,illinois,2,12,100.0,RepBost,mike bost
-420,house,"january 3, 2019",peter defazio,democratic,oregon,30,4,100.0,RepPeterDeFazio,peter defazio
-462,house,"january 3, 2019",sam johnson,republican,texas,26,3,100.0,SamsPressShop,sam johnson
-424,house,"january 3, 2019",peter welch,democratic,vermont,10,,100.0,PeterWelch,peter welch
-428,house,"january 3, 2017",ralph abraham,republican,louisiana,2,5,100.0,RepAbraham,ralph abraham
-459,house,"january 3, 2019",ryan zinke,republican,,2,interior,100.0,RepRyanZinke,ryan zinke
-458,house,"january 3, 2019",ryan costello,republican,pennsylvania,2,6,100.0,RepRyanCostello,ryan costello
-457,house,"january 3, 2019",ruben j. kihuen,democratic,nevada,0,4,100.0,RepKihuen,ruben j. kihuen
-456,house,"january 3, 2019",ruben gallego,democratic,arizona,2,7,100.0,RepRubenGallego,ruben gallego
-454,house,"january 3, 2019",ron kind,democratic,wisconsin,20,3,100.0,RepRonKind,ron kind
-453,house,"january 3, 2019",ron desantis,republican,florida,4,6,100.0,RepDeSantis,ron desantis
-452,house,"january 3, 2019",roger williams,republican,texas,4,25,100.0,RepRWilliams,roger williams
-451,house,"january 3, 2019",roger marshall,republican,kansas,0,1,100.0,RepMarshall,roger marshall
-447,house,"january 3, 2015",robin kelly,democratic,illinois,4,2,100.0,RepRobinKelly,robin kelly
-446,house,"january 3, 2019",robert pittenger,republican,north carolina,4,9,100.0,reppittenger,robert pittenger
-444,house,"january 3, 2019",robert aderholt,republican,alabama,20,4,100.0,Robert_Aderholt,robert aderholt
-443,house,"january 3, 2019",rob woodall,republican,georgia,6,7,100.0,RepRobWoodall,rob woodall
-442,house,"january 3, 2019",rob wittman,republican,virginia,10,1,100.0,RobWittman,rob wittman
-441,house,"january 3, 2019",rob bishop,republican,utah,14,1,100.0,RepRobBishop,rob bishop
-440,house,"january 3, 2019",ro khanna,democratic,california,0,17,100.0,RepRoKhanna,ro khanna
-438,house,"january 3, 2019",rick larsen,democratic,washington,16,2,100.0,RepRickLarsen,rick larsen
-437,house,"january 3, 2019",rick crawford,republican,arkansas,6,1,100.0,RepRickCrawford,rick crawford
-435,house,"january 3, 2019",richard neal,democratic,massachusetts,28,1,100.0,RepRichardNeal,richard neal
-433,house,"january 3, 2019",raul ruiz,democratic,california,4,36,100.0,CongressmanRuiz,raul ruiz
-430,house,"january 3, 2019",randy weber,republican,texas,4,14,100.0,TXRandy14,randy weber
-429,house,"january 3, 2019",randy hultgren,republican,illinois,6,14,100.0,RepHultgren,randy hultgren
-427,house,"january 3, 2019",raja krishnamoorthi,democratic,illinois,0,8,100.0,CongressmanRaja,raja krishnamoorthi
-307,house,"january 3, 2019",john garamendi,democratic,california,8,3,100.0,RepGaramendi,john garamendi
-266,house,"january 3, 2019",jackie walorski,republican,indiana,4,2,100.0,RepWalorski,jackie walorski
-304,house,"january 3, 2019",john delaney,democratic,maryland,4,6,100.0,RepJohnDelaney,john delaney
-106,house,"january 3, 2019",alan lowenthal,democratic,california,4,47,100.0,RepLowenthal,alan lowenthal
-104,house,"january 3, 2019",adriano espaillat,democratic,new york,0,13,100.0,RepEspaillat,adriano espaillat
-103,house,"january 3, 2019",adrian smith,republican,nebraska,10,3,100.0,RepAdrianSmith,adrian smith
-102,house,"january 3, 2019",adam smith,democratic,washington,20,9,100.0,RepAdamSmith,adam smith
-101,house,"january 3, 2019",adam schiff,democratic,california,16,28,100.0,RepAdamSchiff,adam schiff
-100,house,"january 3, 2019",adam kinzinger,republican,illinois,6,16,100.0,RepKinzinger,adam kinzinger
-99,senate,"january 3, 2021",tom udall,democratic,new mexico,8,,100.0,SenatorTomUdall,tom udall
-98,senate,"january 3, 2021",tom cotton,republican,arkansas,2,,100.0,SenTomCotton,tom cotton
-97,senate,"january 3, 2019",tom carper,democratic,delaware,16,,100.0,SenatorCarper,tom carper
-95,senate,"january 3, 2023",tim scott,republican,south carolina,4,,100.0,SenatorTimScott,tim scott
-94,senate,"january 3, 2019",tim kaine,democratic,virginia,4,,100.0,timkaine,tim kaine
-93,senate,"january 3, 2021",thom tillis,republican,north carolina,2,,100.0,SenThomTillis,thom tillis
-92,senate,"january 3, 2021",thad cochran,republican,mississippi,39,,100.0,SenThadCochran,thad cochran
-91,senate,"january 3, 2019",ted cruz,republican,texas,4,,100.0,SenTedCruz,ted cruz
-90,senate,"january 3, 2023",tammy duckworth,democratic,illinois,0,,100.0,SenDuckworth,tammy duckworth
-87,senate,"january 3, 2021",steve daines,republican,montana,2,,100.0,SteveDaines,steve daines
-86,senate,"january 3, 2019",sherrod brown,democratic,ohio,10,,100.0,SenSherrodBrown,sherrod brown
-85,senate,"january 3, 2021",shelley moore capito,republican,west virginia,2,,100.0,SenCapito,shelley moore capito
-84,senate,"january 3, 2019",sheldon whitehouse,democratic,rhode island,10,,100.0,SenWhitehouse,sheldon whitehouse
-83,senate,"january 3, 2023",roy blunt,republican,missouri,6,,100.0,RoyBlunt,roy blunt
-82,senate,"january 3, 2023",ron wyden,democratic,oregon,21,,100.0,RonWyden,ron wyden
-81,senate,"january 3, 2023",ron johnson,republican,wisconsin,6,,100.0,SenRonJohnson,ron johnson
-80,senate,"january 3, 2019",roger wicker,republican,mississippi,10,,100.0,SenatorWicker,roger wicker
-107,house,"january 3, 2019",albio sires,democratic,new jersey,4,8,100.0,RepSires,albio sires
-79,senate,"january 3, 2023",rob portman,republican,ohio,6,,100.0,senrobportman,rob portman
-108,house,"january 3, 2019",alcee l. hastings,democratic,florida,24,20,100.0,RepHastingsFL,alcee l. hastings
-121,house,"january 3, 2019",austin scott,republican,georgia,6,8,100.0,AustinScottGA08,austin scott
-148,house,"january 3, 2019",brad wenstrup,republican,ohio,4,2,100.0,RepBradWenstrup,brad wenstrup
-147,house,"january 3, 2019",brad sherman,democratic,california,20,30,100.0,BradSherman,brad sherman
-146,house,"january 3, 2019",brad schneider,democratic,illinois,0,10,100.0,RepSchneider,brad schneider
-144,house,"january 3, 2019",bobby scott,democratic,virginia,24,3,100.0,BobbyScott,bobby scott
-143,house,"january 3, 2019",bobby l. rush,democratic,illinois,24,1,100.0,RepBobbyRush,bobby l. rush
-141,house,"january 3, 2019",bob goodlatte,republican,virginia,24,6,100.0,RepGoodlatte,bob goodlatte
-140,house,"january 3, 2019",bob gibbs,republican,ohio,6,7,100.0,RepBobGibbs,bob gibbs
-139,house,"january 3, 2019",blake farenthold,republican,texas,6,27,100.0,farenthold,blake farenthold
-138,house,"january 3, 2019",blaine luetkemeyer,republican,missouri,8,3,100.0,RepBlainePress,blaine luetkemeyer
-137,house,"january 3, 2019",billy long,republican,missouri,6,7,100.0,USRepLong,billy long
-136,house,"january 3, 2019",bill shuster,republican,pennsylvania,16,9,100.0,RepBillShuster,bill shuster
-135,house,"january 3, 2019",bill posey,republican,florida,8,8,100.0,congbillposey,bill posey
-133,house,"january 3, 2019",bill keating,democratic,massachusetts,6,9,100.0,USRepKeating,bill keating
-132,house,"january 3, 2019",bill johnson,republican,ohio,6,6,100.0,RepBillJohnson,bill johnson
-131,house,"january 3, 2019",bill huizenga,republican,michigan,6,2,100.0,RepHuizenga,bill huizenga
-130,house,"january 3, 2019",bill foster,democratic,illinois,4,11,100.0,RepBillFoster,bill foster
-129,house,"january 3, 2019",bill flores,republican,texas,6,17,100.0,RepBillFlores,bill flores
-128,house,"january 3, 2019",betty mccollum,democratic,minnesota,8,4,100.0,BettyMcCollum04,betty mccollum
-127,house,"january 3, 2019",beto o'rourke,democratic,texas,4,16,100.0,RepBetoORourke,beto o'rourke
-125,house,"january 3, 2019",ben ray lujan,democratic,new mexico,8,3,100.0,repbenraylujan,ben ray lujan
-124,house,"january 3, 2019",barry loudermilk,republican,georgia,2,11,100.0,RepLoudermilk,barry loudermilk
-123,house,"january 3, 2019",barbara lee,democratic,california,18,13,100.0,RepBarbaraLee,barbara lee
-122,house,"january 3, 2019",barbara comstock,republican,virginia,2,10,100.0,RepComstock,barbara comstock
-115,house,"january 3, 2019",andy barr,republican,kentucky,4,6,100.0,RepAndyBarr,andy barr
-149,house,"january 3, 2019",bradley byrne,republican,alabama,3,1,100.0,RepByrne,bradley byrne
-78,senate,"january 3, 2023",richard shelby,republican,alabama,30,,100.0,SenShelby,richard shelby
-76,senate,"january 3, 2023",richard blumenthal,democratic,connecticut,6,,100.0,SenBlumenthal,richard blumenthal
-30,senate,"january 3, 2021",gary peters,democratic,michigan,2,,100.0,SenGaryPeters,gary peters
-29,senate,"january 3, 2019",elizabeth warren,democratic,massachusetts,4,,100.0,SenWarren,elizabeth warren
-28,senate,"january 3, 2021",ed markey,democratic,massachusetts,4,,100.0,SenMarkey,ed markey
-27,senate,"january 3, 2021",dick durbin,democratic,illinois,20,,100.0,SenatorDurbin,dick durbin
-25,senate,"january 3, 2019",debbie stabenow,democratic,michigan,16,,100.0,stabenow,debbie stabenow
-24,senate,"january 3, 2019",deb fischer,republican,nebraska,4,,100.0,SenatorFischer,deb fischer
-23,senate,"january 3, 2019",dean heller,republican,nevada,6,,100.0,SenDeanHeller,dean heller
-22,senate,"january 3, 2021",david perdue,republican,georgia,2,,100.0,sendavidperdue,david perdue
-20,senate,"january 3, 2021",cory gardner,republican,colorado,2,,100.0,SenCoryGardner,cory gardner
-19,senate,"january 3, 2021",cory booker,democratic,new jersey,4,,100.0,CoryBooker,cory booker
-18,senate,"january 3, 2019",claire mccaskill,democratic,missouri,10,,100.0,clairecmc,claire mccaskill
-17,senate,"january 3, 2023",chuck schumer,democratic,new york,18,,100.0,SenSchumer,chuck schumer
-15,senate,"january 3, 2023",chris van hollen,democratic,maryland,0,,100.0,ChrisVanHollen,chris van hollen
-13,senate,"january 3, 2021",chris coons,democratic,delaware,7,,100.0,ChrisCoons,chris coons
-10,senate,"january 3, 2019",bob menendez,democratic,new jersey,11,,100.0,SenatorMenendez,bob menendez
-9,senate,"january 3, 2019",bob corker,republican,tennessee,10,,100.0,SenBobCorker,bob corker
-7,senate,"january 3, 2019",bill nelson,democratic,florida,17,,100.0,SenBillNelson,bill nelson
-6,senate,"january 3, 2021",bill cassidy,republican,louisiana,2,,100.0,BillCassidy,bill cassidy
-5,senate,"january 3, 2019",bernie sanders,independent,vermont,10,,100.0,SenSanders,bernie sanders
-4,senate,"january 3, 2021",ben sasse,republican,nebraska,2,,100.0,SenSasse,ben sasse
-3,senate,"january 3, 2019",ben cardin,democratic,maryland,10,,100.0,SenatorCardin,ben cardin
-2,senate,"january 3, 2019",angus king,independent,maine,4,,100.0,SenAngusKing,angus king
-1,senate,"january 3, 2019",amy klobuchar,democratic,minnesota,10,,100.0,amyklobuchar,amy klobuchar
-32,senate,"january 3, 2021",jack reed,democratic,rhode island,20,,100.0,SenJackReed,jack reed
-77,senate,"january 3, 2023",richard burr,republican,north carolina,12,,100.0,SenatorBurr,richard burr
-35,senate,"january 3, 2019",jeff flake,republican,arizona,4,,100.0,JeffFlake,jeff flake
-38,senate,"january 3, 2023",jerry moran,republican,kansas,6,,100.0,JerryMoran,jerry moran
-75,senate,"january 3, 2023",rand paul,republican,kentucky,6,,100.0,RandPaul,rand paul
-74,senate,"january 3, 2023",patty murray,democratic,washington,24,,100.0,PattyMurray,patty murray
-72,senate,"january 3, 2023",pat toomey,republican,pennsylvania,6,,100.0,SenToomey,pat toomey
-71,senate,"january 3, 2021",pat roberts,republican,kansas,20,,100.0,SenPatRoberts,pat roberts
-68,senate,"january 3, 2021",mike rounds,republican,south dakota,2,,100.0,SenatorRounds,mike rounds
-67,senate,"january 3, 2023",mike lee,republican,utah,6,,100.0,SenMikeLee,mike lee
-66,senate,"january 3, 2021",mike enzi,republican,wyoming,20,,100.0,SenatorEnzi,mike enzi
-65,senate,"january 3, 2023",mike crapo,republican,idaho,18,,100.0,MikeCrapo,mike crapo
-62,senate,"january 3, 2019",martin heinrich,democratic,new mexico,4,,100.0,MartinHeinrich,martin heinrich
-61,senate,"january 3, 2021",mark warner,democratic,virginia,8,,100.0,MarkWarner,mark warner
-59,senate,"january 3, 2023",marco rubio,republican,florida,6,,100.0,marcorubio,marco rubio
-56,senate,"january 3, 2021",lindsey graham,republican,south carolina,14,,100.0,GrahamBlog,lindsey graham
-54,senate,"january 3, 2019",kirsten gillibrand,democratic,new york,8,,100.0,SenGillibrand,kirsten gillibrand
-52,senate,"january 3, 2021",joni ernst,republican,iowa,2,,100.0,SenJoniErnst,joni ernst
-51,senate,"january 3, 2019",jon tester,democratic,montana,10,,100.0,SenatorTester,jon tester
-50,senate,"january 3, 2023",johnny isakson,republican,georgia,12,,100.0,SenatorIsakson,johnny isakson
-49,senate,"january 3, 2023",john thune,republican,south dakota,12,,100.0,SenJohnThune,john thune
-47,senate,"january 3, 2023",john mccain,republican,arizona,30,,100.0,SenJohnMcCain,john mccain
-46,senate,"january 3, 2023",john hoeven,republican,north dakota,6,,100.0,SenJohnHoeven,john hoeven
-44,senate,"january 3, 2023",john boozman,republican,arkansas,6,,100.0,JohnBoozman,john boozman
-41,senate,"january 3, 2019",joe donnelly,democratic,indiana,4,,100.0,SenDonnelly,joe donnelly
-40,senate,"january 3, 2021",jim risch,republican,idaho,8,,100.0,SenatorRisch,jim risch
-39,senate,"january 3, 2021",jim inhofe,republican,oklahoma,22,,100.0,jiminhofe,jim inhofe
-36,senate,"january 3, 2021",jeff merkley,democratic,oregon,8,,100.0,SenJeffMerkley,jeff merkley
-150,house,"january 3, 2019",brenda lawrence,democratic,michigan,2,14,100.0,RepLawrence,brenda lawrence
-151,house,"january 3, 2019",brendan boyle,democratic,pennsylvania,2,13,100.0,RepBrendanBoyle,brendan boyle
-152,house,"january 3, 2019",brett guthrie,republican,kentucky,8,2,100.0,RepGuthrie,brett guthrie
-269,house,"january 3, 2019",james e. clyburn,democratic,south carolina,24,6,100.0,Clyburn,james e. clyburn
-531,house,"january 3, 2019",yvette d. clarke,democratic,new york,10,9,100.0,RepYvetteClarke,yvette d. clarke
-265,house,"january 3, 2019",jackie speier,democratic,california,9,14,100.0,RepSpeier,jackie speier
-263,house,"january 3, 2019",ileana ros-lehtinen,republican,florida,28,27,100.0,RosLehtinen,ileana ros-lehtinen
-262,house,"january 3, 2019",henry cuellar,democratic,texas,12,28,100.0,RepCuellar,henry cuellar
-261,house,"january 3, 2019",hank johnson,democratic,georgia,10,4,100.0,RepHankJohnson,hank johnson
-260,house,"january 3, 2019",hal rogers,republican,kentucky,36,5,100.0,RepHalRogers,hal rogers
-259,house,"january 3, 2019",hakeem jeffries,democratic,new york,4,8,100.0,RepJeffries,hakeem jeffries
-258,house,"january 3, 2019",gwen moore,democratic,wisconsin,12,4,100.0,RepGwenMoore,gwen moore
-255,house,"january 3, 2019",gregg harper,republican,mississippi,8,3,100.0,GreggHarper,gregg harper
-254,house,"january 3, 2019",greg walden,republican,oregon,18,2,100.0,repgregwalden,greg walden
-253,house,"january 3, 2019",grace napolitano,democratic,california,18,32,100.0,gracenapolitano,grace napolitano
-252,house,"january 3, 2019",grace meng,democratic,new york,4,6,100.0,RepGraceMeng,grace meng
-250,house,"january 3, 2019",glenn grothman,republican,wisconsin,2,6,100.0,RepGrothman,glenn grothman
-249,house,"january 3, 2019",gerry connolly,democratic,virginia,8,11,100.0,GerryConnolly,gerry connolly
-247,house,"january 3, 2019",gene green,democratic,texas,24,29,100.0,RepGeneGreen,gene green
-246,house,"january 3, 2019",gary palmer,republican,alabama,2,6,100.0,USRepGaryPalmer,gary palmer
-243,house,"january 3, 2019",french hill,republican,arkansas,2,2,100.0,RepFrenchHill,french hill
-241,house,"january 3, 2019",fred upton,republican,michigan,30,6,100.0,RepFredUpton,fred upton
-240,house,"january 3, 2019",frank pallone,democratic,new jersey,24,6,100.0,FrankPallone,frank pallone
-238,house,"january 3, 2019",frank lobiondo,republican,new jersey,22,2,100.0,RepLoBiondo,frank lobiondo
-237,house,"january 3, 2019",francis rooney,republican,florida,0,19,100.0,RepRooney,francis rooney
-235,house,"january 3, 2019",evan jenkins,republican,virginia,2,3,100.0,RepEvanJenkins,evan jenkins
-271,house,"january 3, 2019",jamie raskin,democratic,maryland,0,8,100.0,RepRaskin,jamie raskin
-233,house,"january 3, 2019",eric swalwell,democratic,california,4,15,100.0,RepSwalwell,eric swalwell
-272,house,"january 3, 2019",jan schakowsky,democratic,illinois,18,9,100.0,janschakowsky,jan schakowsky
-274,house,"january 3, 2019",jared polis,democratic,colorado,8,2,100.0,RepJaredPolis,jared polis
-303,house,"january 3, 2019",john culberson,republican,texas,16,7,100.0,CongCulberson,john culberson
-302,house,"january 3, 2019","john conyers, jr.",democratic,michigan,52,13,100.0,RepJohnConyers,"john conyers, jr."
-300,house,"january 3, 2019",joe wilson,republican,south carolina,16,2,100.0,RepJoeWilson,joe wilson
-299,house,"january 3, 2019",joe courtney,democratic,connecticut,10,2,100.0,RepJoeCourtney,joe courtney
-298,house,"january 3, 2019",joe barton,republican,texas,32,6,100.0,RepJoeBarton,joe barton
-297,house,"january 3, 2015",jody hice,republican,georgia,2,10,100.0,CongressmanHice,jody hice
-295,house,"january 3, 2019",joaquin castro,democratic,texas,4,20,100.0,JoaquinCastrotx,joaquin castro
-294,house,"january 3, 2019",jimmy panetta,democratic,california,0,20,100.0,RepJimmyPanetta,jimmy panetta
-291,house,"january 3, 2019",jim mcgovern,democratic,massachusetts,28,2,100.0,RepMcGovern,jim mcgovern
-290,house,"january 3, 2019",jim langevin,democratic,rhode island,16,2,100.0,jimlangevin,jim langevin
-289,house,"january 3, 2019",jim jordan,republican,ohio,10,4,100.0,Jim_Jordan,jim jordan
-288,house,"january 3, 2019",jim himes,democratic,connecticut,8,4,100.0,jahimes,jim himes
-287,house,"january 3, 2019",jim costa,democratic,california,12,16,100.0,RepJimCosta,jim costa
-286,house,"january 3, 2019",jim cooper,democratic,tennessee,14,5,100.0,repjimcooper,jim cooper
-285,house,"january 3, 2019",jim bridenstine,republican,oklahoma,4,1,100.0,RepJBridenstine,jim bridenstine
-284,house,"january 3, 2019",jim banks,republican,indiana,0,3,100.0,RepJimBanks,jim banks
-283,house,"january 3, 2019",jerry mcnerney,democratic,california,10,9,100.0,RepMcNerney,jerry mcnerney
-280,house,"january 3, 2019",jeff duncan,republican,south carolina,6,3,100.0,RepJeffDuncan,jeff duncan
-279,house,"january 3, 2019",jeff denham,republican,california,6,10,100.0,RepJeffDenham,jeff denham
-278,house,"january 3, 2019",jeb hensarling,republican,texas,14,5,100.0,RepHensarling,jeb hensarling
-277,house,"january 3, 2019",jason smith,republican,missouri,4,8,100.0,RepJasonSmith,jason smith
-276,house,"january 3, 2019",jason lewis,republican,minnesota,0,2,100.0,RepJasonLewis,jason lewis
-275,house,"january 3, 2019",jason chaffetz,republican,utah,8,3,100.0,jasoninthehouse,jason chaffetz
-273,house,"january 3, 2019",jared huffman,democratic,california,4,2,100.0,RepHuffman,jared huffman
-232,house,"january 3, 2019",emanuel cleaver,democratic,missouri,13,5,100.0,repcleaver,emanuel cleaver
-231,house,"january 3, 2019",elizabeth esty,democratic,connecticut,4,5,100.0,RepEsty,elizabeth esty
-230,house,"january 3, 2019",elise stefanik,republican,new york,2,21,100.0,RepStefanik,elise stefanik
-186,house,"january 3, 2019",dave loebsack,democratic,iowa,10,2,100.0,daveloebsack,dave loebsack
-184,house,"january 3, 2019",darrell issa,republican,california,16,49,100.0,DarrellIssa,darrell issa
-183,house,"january 3, 2019",darin lahood,republican,illinois,2,18,100.0,RepLaHood,darin lahood
-181,house,"january 3, 2019",daniel webster,republican,florida,6,11,100.0,RepWebster,daniel webster
-180,house,"january 3, 2019",daniel lipinski,democratic,illinois,12,3,100.0,RepLipinski,daniel lipinski
-178,house,"january 3, 2019",dana rohrabacher,republican,california,28,48,100.0,RepRohrabacher,dana rohrabacher
-177,house,"january 3, 2019",dan newhouse,republican,washington,2,4,100.0,RepNewhouse,dan newhouse
-176,house,"january 3, 2019",dan kildee,democratic,michigan,4,5,100.0,RepDanKildee,dan kildee
-174,house,"january 3, 2019",colleen hanabusa,democratic,hawaii,1,1,100.0,RepHanabusa,colleen hanabusa
-171,house,"january 3, 2019",chris stewart,republican,utah,4,2,100.0,RepChrisStewart,chris stewart
-170,house,"january 3, 2019",chris smith,republican,new jersey,36,4,100.0,RepChrisSmith,chris smith
-169,house,"january 3, 2019",chris collins,republican,new york,4,27,100.0,RepChrisCollins,chris collins
-168,house,"january 3, 2019",cheri bustos,democratic,illinois,4,17,100.0,RepCheri,cheri bustos
-167,house,"january 3, 2019",chellie pingree,democratic,maine,8,1,100.0,chelliepingree,chellie pingree
-165,house,"january 3, 2019",charlie crist,democratic,florida,0,13,100.0,RepCharlieCrist,charlie crist
-163,house,"january 3, 2019",cedric richmond,democratic,louisiana,6,2,100.0,RepRichmond,cedric richmond
-159,house,"january 3, 2019",carlos curbelo,republican,florida,2,26,100.0,RepCurbelo,carlos curbelo
-158,house,"january 3, 2019",bruce westerman,republican,arkansas,2,4,100.0,RepWesterman,bruce westerman
-157,house,"january 3, 2019",bruce poliquin,republican,maine,2,2,100.0,RepPoliquin,bruce poliquin
-156,house,"january 3, 2019",brian mast,republican,florida,0,18,100.0,RepBrianMast,brian mast
-155,house,"january 3, 2019",brian higgins,democratic,new york,12,26,100.0,RepBrianHiggins,brian higgins
-154,house,"january 3, 2019",brian fitzpatrick,republican,pennsylvania,0,8,100.0,RepBrianFitz,brian fitzpatrick
-153,house,"january 3, 2019",brian babin,republican,texas,2,36,100.0,RepBrianBabin,brian babin
-187,house,"january 3, 2019",dave reichert,republican,washington,12,8,100.0,davereichert,dave reichert
-191,house,"january 3, 2019",david kustoff,republican,tennessee,0,8,100.0,repdavidkustoff,david kustoff
-194,house,"january 3, 2019",david rouzer,republican,north carolina,2,7,100.0,RepDavidRouzer,david rouzer
-195,house,"january 3, 2019",david schweikert,republican,arizona,6,6,100.0,RepDavid,david schweikert
-229,house,"january 3, 2019",eliot engel,democratic,new york,28,16,100.0,RepEliotEngel,eliot engel
-225,house,"january 3, 2019",ed perlmutter,democratic,colorado,10,7,100.0,RepPerlmutter,ed perlmutter
-224,house,"january 3, 2019",earl blumenauer,democratic,oregon,20,3,100.0,repblumenauer,earl blumenauer
-222,house,"january 3, 2019",dwight evans,democratic,pennsylvania,1,2,100.0,RepDwightEvans,dwight evans
-221,house,"january 3, 2019",dutch ruppersberger,democratic,maryland,14,2,100.0,Call_Me_Dutch,dutch ruppersberger
-220,house,"january 3, 2019",duncan hunter,republican,california,8,50,100.0,Rep_Hunter,duncan hunter
-219,house,"january 3, 2019",drew ferguson,republican,georgia,0,3,100.0,RepDrewFerguson,drew ferguson
-218,house,"january 3, 2019",doug lamborn,republican,colorado,10,5,100.0,RepDLamborn,doug lamborn
-217,house,"january 3, 2019",doug lamalfa,republican,california,4,1,100.0,RepLaMalfa,doug lamalfa
-216,house,"january 3, 2019",doug collins,republican,georgia,4,9,100.0,RepDougCollins,doug collins
-215,house,"january 3, 2019",doris matsui,democratic,california,12,6,100.0,DorisMatsui,doris matsui
-306,house,"january 3, 2019",john faso,republican,new york,0,19,100.0,RepJohnFaso,john faso
-213,house,"january 3, 2019",donald norcross,democratic,new jersey,3,1,100.0,DonaldNorcross,donald norcross
-211,house,"january 3, 2019",don young,republican,alaska,44,,100.0,repdonyoung,don young
-210,house,"january 3, 2019",don beyer,democratic,virginia,2,8,100.0,RepDonBeyer,don beyer
-208,house,"january 3, 2019",dina titus,democratic,nevada,4,1,100.0,repdinatitus,dina titus
-207,house,"january 3, 2019",diane black,republican,tennessee,6,6,100.0,RepDianeBlack,diane black
-206,house,"january 3, 2019",diana degette,democratic,colorado,20,1,100.0,RepDianaDeGette,diana degette
-205,house,"january 3, 2019",devin nunes,republican,california,14,22,100.0,Rep_DevinNunes,devin nunes
-204,house,"january 3, 2019",derek kilmer,democratic,washington,4,6,100.0,RepDerekKilmer,derek kilmer
-203,house,"january 3, 2019",denny heck,democratic,washington,4,10,100.0,RepDennyHeck,denny heck
-200,house,"january 3, 2019",debbie dingell,democratic,michigan,2,12,100.0,RepDebDingell,debbie dingell
-199,house,"january 7, 2017",david young,republican,iowa,2,3,100.0,RepDavidYoung,david young
-196,house,"january 3, 2019",david scott,democratic,georgia,14,13,100.0,repdavidscott,david scott
-212,house,"january 3, 2019",donald mceachin,democratic,virginia,0,4,100.0,RepMcEachin,donald mceachin
-532,house,"january 3, 2019",zoe lofgren,democratic,california,22,19,100.0,RepZoeLofgren,zoe lofgren
-21,senate,"january 3, 2021",daniel s. sullivan,republican,alaska,2,,,,
-69,senate,"january 3, 2021",mitch mcconnell,republican,kentucky,32,,,,
-70,senate,"january 3, 2019",orrin hatch,republican,utah,40,,,,
-110,house,"january 3, 2019",alfred lawson,democratic,florida,0,5,,,
-120,house,"january 3, 2019",anthony g. brown,democratic,maryland,0,4,,,
-160,house,"january 3, 2019",carol shea-porter,democratic,new hampshire,0,1,,,
-164,house,"january 3, 2019",charles j. fleischmann,republican,tennessee,6,3,,,
-172,house,"january 3, 2019",claudia tenney,republican,new york,0,22,,,
-173,house,"january 3, 2019",clay higgins,republican,louisiana,0,3,,,
-175,house,"january 3, 2019",collin peterson,democratic,minnesota,26,7,,,
-185,house,"january 3, 2019",darren soto,democratic,florida,0,9,,,
-209,house,"january 3, 2019",don bacon,republican,nebraska,0,2,,,
-264,house,"january 3, 2019",jack bergman,republican,michigan,0,1,,,
-267,house,"january 3, 2019",jacky rosen,democratic,nevada,0,3,,,
-270,house,"january 3, 2019 january 3, 2019",james comer jr.,republican,kentucky,1,1,,,
-292,house,"january 3, 2019",james b. renacci,republican,ohio,6,16,,,
-344,house,"january 3, 2019",larry bucshon,republican,indiana,6,8,,,
-387,house,"january 3, 2019",michael k. simpson,republican,idaho,18,2,,,
-388,house,"january 3, 2019",michael r. turner,republican,ohio,14,10,,,
-426,house,"january 3, 2019",pramila jayapal,democratic,washington,0,7,,,
-468,house,"january 3, 2019",scott taylor,republican,virginia,0,2,,,
-497,house,"january 3, 2019",thomas garrett,republican,virginia,0,5,,,
-524,house,"january 3, 2019",vicente gonzález,democratic,texas,0,15,,,
-528,house,"january 3, 2019",warren davidson,republican,ohio,1,8,,,
-530,house,"january 3, 2019",william lacy clay,democratic,missouri,16,1,,,
+,facebook,twitter,id,chamber,name,party,state
+0,congresswomanaumuaamata,RepAmata,412664.0,rep,Aumua Amata Coleman Radewagen,Republican,American Samoa
+1,RepToddYoung,RepToddYoung,412428.0,sen,Todd Young,Republican,Indiana
+2,senjoniernst,SenJoniErnst,412667.0,sen,Joni Ernst,Republican,Iowa
+3,SenatorThomTillis,senthomtillis,412668.0,sen,Thom Tillis,Republican,North Carolina
+4,CongressmanKevinYoder,RepKevinYoder,412430.0,rep,Kevin Yoder,Republican,Kansas
+5,214258646163,RepJohnYarmuth,412211.0,rep,John A. Yarmuth,Democrat,Kentucky
+6,RepDonYoung,RepDonYoung,400440.0,rep,Don Young,Republican,Alaska
+7,RepSteveWomack,Rep_SteveWomack,412402.0,rep,Steve Womack,Republican,Arkansas
+8,RepWilson,RepWilson,412412.0,rep,Frederica S. Wilson,Democrat,Florida
+9,RepWebster,RepWebster,412410.0,rep,Daniel Webster,Republican,Florida
+10,MarkRWarner,MarkWarner,412321.0,sen,Mark R. Warner,Democrat,Virginia
+11,RepRobWittman,RobWittman,412255.0,rep,Robert J. Wittman,Republican,Virginia
+12,SenatorWhitehouse,SenWhitehouse,412247.0,sen,Sheldon Whitehouse,Democrat,Rhode Island
+13,PeterWelch,PeterWelch,412239.0,rep,Peter Welch,Democrat,Vermont
+14,RepWalberg,RepWalberg,412213.0,rep,Tim Walberg,Republican,Michigan
+15,RepDWS,RepDWStweets,400623.0,rep,Debbie Wasserman Schultz,Democrat,Florida
+16,JoeWilson,RepJoeWilson,400433.0,rep,Joe Wilson,Republican,South Carolina
+17,repgregwalden,RepGregWalden,400419.0,rep,Greg Walden,Republican,Oregon
+18,,RonWyden,300100.0,sen,Ron Wyden,Democrat,Oregon
+19,SenatorWicker,SenatorWicker,400432.0,sen,Roger F. Wicker,Republican,Mississippi
+20,MaxineWaters,MaxineWaters,400422.0,rep,Maxine Waters,Democrat,California
+21,chrisvanhollen,ChrisVanHollen,400415.0,sen,Chris Van Hollen,Democrat,Maryland
+22,repvisclosky,RepVisclosky,400417.0,rep,Peter J. Visclosky,Democrat,Indiana
+23,8037068318,NydiaVelazquez,400416.0,rep,Nydia M. Velázquez,Democrat,New York
+24,senatortomudall,SenatorTomUdall,400413.0,sen,Tom Udall,Democrat,New Mexico
+25,RepFredUpton,RepFredUpton,400414.0,rep,Fred Upton,Republican,Michigan
+26,CongressmanScottTipton,RepTipton,412405.0,rep,Scott R. Tipton,Republican,Colorado
+27,paul.tonko,RepPaulTonko,412319.0,rep,Paul Tonko,Democrat,New York
+28,CongresswomanTitus,RepDinaTitus,412318.0,rep,Dina Titus,Democrat,Nevada
+29,CongressmanGT,CongressmanGT,412317.0,rep,Glenn Thompson,Republican,Pennsylvania
+30,RepTsongas,NikiInTheHouse,412254.0,rep,Niki Tsongas,Democrat,Massachusetts
+31,senatortester,SenatorTester,412244.0,sen,Jon Tester,Democrat,Montana
+32,RepMikeTurner,RepMikeTurner,400411.0,rep,Michael R. Turner,Republican,Ohio
+33,RepPatTiberi,TiberiPress,400406.0,rep,Patrick J. Tiberi,Republican,Ohio
+34,senatortoomey,SenToomey,400408.0,sen,Patrick J. Toomey,Republican,Pennsylvania
+35,RepMikeThompson,RepThompson,400403.0,rep,Mike Thompson,Democrat,California
+36,,SenJohnThune,400546.0,sen,John Thune,Republican,South Dakota
+37,repmacthornberry,MacTXPress,400404.0,rep,Mac Thornberry,Republican,Texas
+38,7259193379,BennieGThompson,400402.0,rep,Bennie G. Thompson,Democrat,Mississippi
+39,RepAustinScott,AustinScottGA08,412417.0,rep,Austin Scott,Republican,Georgia
+40,116058275133542,RepSteveStivers,412461.0,rep,Steve Stivers,Republican,Ohio
+41,RepSewell,RepTerriSewell,412396.0,rep,Terri A. Sewell,Democrat,Alabama
+42,SenatorTimScott,SenatorTimScott,412471.0,sen,Tim Scott,Republican,South Carolina
+43,repdavidschweikert,RepDavid,412399.0,rep,David Schweikert,Republican,Arizona
+44,SenatorShaheen,SenatorShaheen,412323.0,sen,Jeanne Shaheen,Democrat,New Hampshire
+45,repschrader,RepSchrader,412315.0,rep,Kurt Schrader,Democrat,Oregon
+46,153423912663,,412312.0,rep,Gregorio Kilili Camacho Sablan,Democrat,Northern Mariana Islands
+47,RepSteveScalise,SteveScalise,412261.0,rep,Steve Scalise,Republican,Louisiana
+48,JackieSpeier,RepSpeier,412259.0,rep,Jackie Speier,Democrat,California
+49,,RepAdrianSmith,412217.0,rep,Adrian Smith,Republican,Nebraska
+50,81058818750,RepSires,412186.0,rep,Albio Sires,Democrat,New Jersey
+51,113303673339,RepDavidScott,400363.0,rep,David Scott,Democrat,Georgia
+52,CongresswomanLindaSanchez,RepLindaSanchez,400355.0,rep,Linda T. Sánchez,Democrat,California
+53,Rep.Shuster,RepBillShuster,409888.0,rep,Bill Shuster,Republican,Pennsylvania
+54,RepAdamSchiff,RepAdamSchiff,400361.0,rep,Adam B. Schiff,Democrat,California
+55,96007744606,CongMikeSimpson,400376.0,rep,Michael K. Simpson,Republican,Idaho
+56,janschakowsky,JanSchakowsky,400360.0,rep,Janice D. Schakowsky,Democrat,Illinois
+57,jeffsessions,SenatorSessions,300088.0,sen,Jeff Sessions,Republican,Alabama
+58,,SenStabenow,300093.0,sen,Debbie Stabenow,Democrat,Michigan
+59,LamarSmithTX21,LamarSmithTX21,400381.0,rep,Lamar Smith,Republican,Texas
+60,RepAdamSmith,RepAdamSmith,400379.0,rep,Adam Smith,Democrat,Washington
+61,RepLouiseSlaughter,LouiseSlaughter,400378.0,rep,Louise McIntosh Slaughter,Democrat,New York
+62,repshimkus,RepShimkus,400373.0,rep,John Shimkus,Republican,Illinois
+63,63158229861,BradSherman,400371.0,rep,Brad Sherman,Democrat,California
+64,RichardShelby,SenShelby,300089.0,sen,Richard C. Shelby,Republican,Alabama
+65,petesessions,PeteSessions,400367.0,rep,Pete Sessions,Republican,Texas
+66,RepJoseSerrano,RepJoseSerrano,400366.0,rep,José E. Serrano,Democrat,New York
+67,RepSensenbrenner,JimPressOffice,400365.0,rep,"F. James Sensenbrenner, Jr.",Republican,Wisconsin
+68,CongressmanBobbyScott,BobbyScott,400364.0,rep,"Robert C. ""Bobby"" Scott",Democrat,Virginia
+69,chuckschumer,SenSchumer,300087.0,sen,Charles E. Schumer,Democrat,New York
+70,senatorsanders,SenSanders,400357.0,sen,Bernard Sanders,Independent,Vermont
+71,SenatorMarcoRubio,SenRubioPress,412491.0,sen,Marco Rubio,Republican,Florida
+72,dennis.ross.376,RepDennisRoss,412411.0,rep,Dennis A. Ross,Republican,Florida
+73,RepToddRokita,ToddRokita,412426.0,rep,Todd Rokita,Republican,Indiana
+74,Representative.Martha.Roby,RepMarthaRoby,412394.0,rep,Martha Roby,Republican,Alabama
+75,RepRichmond,RepRichmond,412432.0,rep,Cedric L. Richmond,Democrat,Louisiana
+76,repjimrenacci,RepJimRenacci,412462.0,rep,James B. Renacci,Republican,Ohio
+77,RepTomReed,RepTomReed,412393.0,rep,Tom Reed,Republican,New York
+78,reptomrooney,TomRooney,412311.0,rep,Thomas J. Rooney,Republican,Florida
+79,DrPhilRoe,DrPhilRoe,412310.0,rep,David P. Roe,Republican,Tennessee
+80,RepRoskam,PeterRoskam,412202.0,rep,Peter J. Roskam,Republican,Illinois
+81,repdavereichert,DaveReichert,400660.0,rep,David G. Reichert,Republican,Washington
+82,timryan,RepTimRyan,400352.0,rep,Tim Ryan,Democrat,Ohio
+83,184756771570504,Call_Me_Dutch,400349.0,rep,C. A. Dutch Ruppersberger,Democrat,Maryland
+84,171770326187035,RepMikeRogersAL,400341.0,rep,Mike Rogers,Republican,Alabama
+85,speakerryan,SpeakerRyan,400351.0,rep,Paul D. Ryan,Republican,Wisconsin
+86,congressmanbobbyrush,RepBobbyRush,400350.0,rep,Bobby L. Rush,Democrat,Illinois
+87,EdRoyce,RepEdRoyce,400348.0,rep,Edward R. Royce,Republican,California
+88,RepRoybalAllard,RepRoybalAllard,400347.0,rep,Lucille Roybal-Allard,Democrat,California
+89,iroslehtinen,RosLehtinen,400344.0,rep,Ileana Ros-Lehtinen,Republican,Florida
+90,CongressmanHalRogers,RepHalRogers,400340.0,rep,Harold Rogers,Republican,Kentucky
+91,SenPatRoberts,SenPatRoberts,300083.0,sen,Pat Roberts,Republican,Kansas
+92,SenJackReed,SenJackReed,300081.0,sen,Jack Reed,Democrat,Rhode Island
+93,repmikequigley,RepMikeQuigley,412331.0,rep,Mike Quigley,Democrat,Illinois
+94,SenatorRandPaul,,412492.0,sen,Rand Paul,Republican,Kentucky
+95,stevenpalazzo,CongPalazzo,412443.0,rep,Steven M. Palazzo,Republican,Mississippi
+96,bill.posey15,CongBillPosey,412309.0,rep,Bill Posey,Republican,Florida
+97,jaredpolis,JaredPolis,412308.0,rep,Jared Polis,Democrat,Colorado
+98,ChelliePingree,ChelliePingree,412307.0,rep,Chellie Pingree,Democrat,Maine
+99,SenatorGaryPeters,SenGaryPeters,412305.0,sen,Gary C. Peters,Democrat,Michigan
+100,CongressmanErikPaulsen,RepErikPaulsen,412303.0,rep,Erik Paulsen,Republican,Minnesota
+101,RepPerlmutter,RepPerlmutter,412192.0,rep,Ed Perlmutter,Democrat,Colorado
+102,106631626049851,JudgeTedPoe,400652.0,rep,Ted Poe,Republican,Texas
+103,reptomprice,RepTomPrice,400626.0,rep,Tom Price,Republican,Georgia
+104,RepStevePearce,RepStevePearce,400313.0,rep,Stevan Pearce,Republican,New Mexico
+105,,RepDavidEPrice,400326.0,rep,David E. Price,Democrat,North Carolina
+106,senrobportman,SenRobPortman,400325.0,sen,Rob Portman,Republican,Ohio
+107,NancyPelosi,NancyPelosi,400314.0,rep,Nancy Pelosi,Democrat,California
+108,pascrell,BillPascrell,400309.0,rep,"Bill Pascrell, Jr.",Democrat,New Jersey
+109,repfrankpallone,FrankPallone,400308.0,rep,"Frank Pallone, Jr.",Democrat,New Jersey
+110,20718168936,RepPeteOlson,412302.0,rep,Pete Olson,Republican,Texas
+111,,RepKristiNoem,412475.0,rep,Kristi L. Noem,Republican,South Dakota
+112,,Rep_DevinNunes,400297.0,rep,Devin Nunes,Republican,California
+113,RepGraceNapolitano,GraceNapolitano,400290.0,rep,Grace F. Napolitano,Democrat,California
+114,CongresswomanNorton,EleanorNorton,400295.0,rep,Eleanor Holmes Norton,Democrat,District of Columbia
+115,,SenBillNelson,300078.0,sen,Bill Nelson,Democrat,Florida
+116,325642654132598,RepRichardNeal,400291.0,rep,Richard E. Neal,Democrat,Massachusetts
+117,CongressmanNadler,RepJerryNadler,400289.0,rep,Jerrold Nadler,Democrat,New York
+118,JoeManchinIII,Sen_JoeManchin,412391.0,sen,"Joe Manchin, III",Democrat,West Virginia
+119,MulvaneySC5,RepMickMulvaney,412474.0,rep,Mick Mulvaney,Republican,South Carolina
+120,CongressmanPatrickMeehan,RepMeehan,412466.0,rep,Patrick Meehan,Republican,Pennsylvania
+121,RepMcKinley,RepMcKinley,412487.0,rep,David B. McKinley,Republican,West Virginia
+122,144408762280226,RepTomMarino,412468.0,rep,Tom Marino,Republican,Pennsylvania
+123,81125319109,RepMcClintock,412295.0,rep,Tom McClintock,Republican,California
+124,jeffmerkley,SenJeffMerkley,412325.0,sen,Jeff Merkley,Democrat,Oregon
+125,senatormccaskill,McCaskillOffice,412243.0,sen,Claire McCaskill,Democrat,Missouri
+126,jerrymcnerney,RepMcNerney,412189.0,rep,Jerry McNerney,Democrat,California
+127,CongressmanKevinMcCarthy,GOPLeader,412190.0,rep,Kevin McCarthy,Republican,California
+128,doris.matsui,DorisMatsui,400663.0,rep,Doris O. Matsui,Democrat,California
+129,GwenSMoore,RepGwenMoore,400661.0,rep,Gwen Moore,Democrat,Wisconsin
+130,mcmorrisrodgers,CathyMcMorris,400659.0,rep,Cathy McMorris Rodgers,Republican,Washington
+131,RepKennyMarchant,RepKenMarchant,400656.0,rep,Kenny Marchant,Republican,Texas
+132,michaeltmccaul,RepMcCaul,400654.0,rep,Michael T. McCaul,Republican,Texas
+133,CongressmanMcHenry,PatrickMcHenry,400644.0,rep,Patrick T. McHenry,Republican,North Carolina
+134,SenLisaMurkowski,LisaMurkowski,300075.0,sen,Lisa Murkowski,Republican,Alaska
+135,reptimmurphy,RepTimMurphy,400285.0,rep,Tim Murphy,Republican,Pennsylvania
+136,repbettymccollum,BettyMcCollum04,400259.0,rep,Betty McCollum,Democrat,Minnesota
+137,gregorymeeksny05,GregoryMeeks,400271.0,rep,Gregory W. Meeks,Democrat,New York
+138,,PattyMurray,300076.0,sen,Patty Murray,Democrat,Washington
+139,jerrymoran,JerryMoran,400284.0,sen,Jerry Moran,Republican,Kansas
+140,senatormenendez,SenatorMenendez,400272.0,sen,Robert Menendez,Democrat,New Jersey
+141,mitchmcconnell,McConnellPress,300072.0,sen,Mitch McConnell,Republican,Kentucky
+142,RepJimMcGovern,RepMcGovern,400263.0,rep,James P. McGovern,Democrat,Massachusetts
+143,johnmccain,SenJohnMcCain,300071.0,sen,John McCain,Republican,Arizona
+144,EdJMarkey,SenMarkey,400253.0,sen,Edward J. Markey,Democrat,Massachusetts
+145,RepCarolynMaloney,RepMaloney,400251.0,rep,Carolyn B. Maloney,Democrat,New York
+146,senatormikelee,SenMikeLee,412495.0,sen,Mike Lee,Republican,Utah
+147,Rep.Billy.Long,USRepLong,412445.0,rep,Billy Long,Republican,Missouri
+148,SenatorLankford,SenatorLankford,412464.0,sen,James Lankford,Republican,Oklahoma
+149,raul.r.labrador,Raul_Labrador,412419.0,rep,Raúl R. Labrador,Republican,Idaho
+150,RepBenRayLujan,RepBenRayLujan,412293.0,rep,Ben Ray Luján,Democrat,New Mexico
+151,BlaineLuetkemeyer,RepBlainePress,412292.0,rep,Blaine Luetkemeyer,Republican,Missouri
+152,CongressmanLance,RepLanceNJ7,412290.0,rep,Leonard Lance,Republican,New Jersey
+153,boblatta,BobLatta,412256.0,rep,Robert E. Latta,Republican,Ohio
+154,DaveLoebsack,DaveLoebsack,412209.0,rep,David Loebsack,Democrat,Iowa
+155,CongressmanDougLamborn,RepDLamborn,412191.0,rep,Doug Lamborn,Republican,Colorado
+156,repdanlipinski,RepLipinski,400630.0,rep,Daniel Lipinski,Democrat,Illinois
+157,repstephenlynch,RepStephenLynch,400249.0,rep,Stephen F. Lynch,Democrat,Massachusetts
+158,RepRickLarsen,RepRickLarsen,400232.0,rep,Rick Larsen,Democrat,Washington
+159,CongressmanJimLangevin,JimLangevin,400230.0,rep,James R. Langevin,Democrat,Rhode Island
+160,RepJohnLarson,RepJohnLarson,400233.0,rep,John B. Larson,Democrat,Connecticut
+161,FrankLoBiondo,RepLoBiondo,400244.0,rep,Frank A. LoBiondo,Republican,New Jersey
+162,RepBarbaraLee,RepBarbaraLee,400237.0,rep,Barbara Lee,Democrat,California
+163,7872057395,RepFrankLucas,400247.0,rep,Frank D. Lucas,Republican,Oklahoma
+164,RepLowey,NitaLowey,400246.0,rep,Nita M. Lowey,Democrat,New York
+165,zoelofgren,RepZoeLofgren,400245.0,rep,Zoe Lofgren,Democrat,California
+166,RepJohnLewis,RepJohnLewis,400240.0,rep,John Lewis,Democrat,Georgia
+167,RepSandyLevin,RepSandyLevin,400238.0,rep,Sander M. Levin,Democrat,Michigan
+168,SenatorPatrickLeahy,SenatorLeahy,300065.0,sen,Patrick J. Leahy,Democrat,Vermont
+169,RepKinzinger,RepKinzinger,412421.0,rep,Adam Kinzinger,Republican,Illinois
+170,191056827594903,MikeKellyPA,412465.0,rep,Mike Kelly,Republican,Pennsylvania
+171,Congressman.Keating,USRepKeating,412435.0,rep,William R. Keating,Democrat,Massachusetts
+172,stevekingia,SteveKingIA,400220.0,rep,Steve King,Republican,Iowa
+173,,RepPeteKing,400219.0,rep,Peter T. King,Republican,New York
+174,repronkind,RepRonKind,400218.0,rep,Ron Kind,Democrat,Wisconsin
+175,RepresentativeMarcyKaptur,RepMarcyKaptur,400211.0,rep,Marcy Kaptur,Democrat,Ohio
+176,senronjohnson,SenRonJohnson,412496.0,sen,Ron Johnson,Republican,Wisconsin
+177,RepBillJohnson,RepBillJohnson,412460.0,rep,Bill Johnson,Republican,Ohio
+178,replynnjenkins,RepLynnJenkins,412284.0,rep,Lynn Jenkins,Republican,Kansas
+179,repjimjordan,Jim_Jordan,412226.0,rep,Jim Jordan,Republican,Ohio
+180,115356957005,RepHankJohnson,412199.0,rep,"Henry C. ""Hank"" Johnson, Jr.",Democrat,Georgia
+181,15083070102,RepWalterJones,400209.0,rep,Walter B. Jones,Republican,North Carolina
+182,RepSamJohnson,SamsPressShop,400206.0,rep,Sam Johnson,Republican,Texas
+183,CongresswomanEBJtx30,RepEBJ,400204.0,rep,Eddie Bernice Johnson,Democrat,Texas
+184,169479190984,JacksonLeeTX18,400199.0,rep,Sheila Jackson Lee,Democrat,Texas
+185,darrellissa,DarrellIssa,400196.0,rep,Darrell E. Issa,Republican,California
+186,jiminhofe,InhofePress,300055.0,sen,James M. Inhofe,Republican,Oklahoma
+187,SenatorJohnHoeven,SenJohnHoeven,412494.0,sen,John Hoeven,Republican,North Dakota
+188,RepHultgren,RepHultgren,412422.0,rep,Randy Hultgren,Republican,Illinois
+189,RepHuizenga,RepHuizenga,412437.0,rep,Bill Huizenga,Republican,Michigan
+190,herrerabeutler,HerreraBeutler,412486.0,rep,Jaime Herrera Beutler,Republican,Washington
+191,Congresswoman.Hartzler,RepHartzler,412444.0,rep,Vicky Hartzler,Republican,Missouri
+192,DuncanHunter,Rep_Hunter,412283.0,rep,Duncan Hunter,Republican,California
+193,CongressmanJimHimes,JAHimes,412282.0,rep,James A. Himes,Democrat,Connecticut
+194,MartinHeinrich,MartinHeinrich,412281.0,sen,Martin Heinrich,Democrat,New Mexico
+195,GreggHarper,GreggHarper,412280.0,rep,Gregg Harper,Republican,Mississippi
+196,senatorhirono,MazieHirono,412200.0,sen,Mazie K. Hirono,Democrat,Hawaii
+197,SenDeanHeller,SenDeanHeller,412218.0,sen,Dean Heller,Republican,Nevada
+198,RepBrianHiggins,RepBrianHiggins,400641.0,rep,Brian Higgins,Democrat,New York
+199,RepHensarling,RepHensarling,400175.0,rep,Jeb Hensarling,Republican,Texas
+200,WhipHoyer,WhipHoyer,400189.0,rep,Steny H. Hoyer,Democrat,Maryland
+201,senatororrinhatch,SenOrrinHatch,300052.0,sen,Orrin G. Hatch,Republican,Utah
+202,95696782238,RepHastingsFL,400170.0,rep,Alcee L. Hastings,Democrat,Florida
+203,RepMorganGriffith,RepMGriffith,412485.0,rep,H. Morgan Griffith,Republican,Virginia
+204,143059759084016,TGowdySC,412473.0,rep,Trey Gowdy,Republican,South Carolina
+205,repgosar,RepGosar,412397.0,rep,Paul A. Gosar,Republican,Arizona
+206,RepBobGibbs,RepBobGibbs,412463.0,rep,Bob Gibbs,Republican,Ohio
+207,SenCoryGardner,SenCoryGardner,412406.0,sen,Cory Gardner,Republican,Colorado
+208,reptomgraves,RepTomGraves,412388.0,rep,Tom Graves,Republican,Georgia
+209,repgaramendi,RepGaramendi,412382.0,rep,John Garamendi,Democrat,California
+210,repalgreen,RepAlGreen,400653.0,rep,Al Green,Democrat,Texas
+211,50375006903,RepLouieGohmert,400651.0,rep,Louie Gohmert,Republican,Texas
+212,Rep.Grijalva,RepraulGrijalva,400162.0,rep,Raúl M. Grijalva,Democrat,Arizona
+213,RepGutierrez,LuisGutierrez,400163.0,rep,Luis V. Gutiérrez,Democrat,Illinois
+214,RepGeneGreen,RepGeneGreen,400160.0,rep,Gene Green,Democrat,Texas
+215,grassley,ChuckGrassley,300048.0,sen,Chuck Grassley,Republican,Iowa
+216,RepKayGranger,RepKayGranger,400157.0,rep,Kay Granger,Republican,Texas
+217,USSenatorLindseyGraham,GrahamBlog,300047.0,sen,Lindsey Graham,Republican,South Carolina
+218,BobGoodlatte,RepGoodlatte,400154.0,rep,Bob Goodlatte,Republican,Virginia
+219,RepBillFlores,RepBillFlores,412480.0,rep,Bill Flores,Republican,Texas
+220,BlakeFarenthold,Farenthold,412482.0,rep,Blake Farenthold,Republican,Texas
+221,repchuck,RepChuck,412476.0,rep,"Charles J. ""Chuck"" Fleischmann",Republican,Tennessee
+222,RepMarciaLFudge,RepMarciaFudge,412327.0,rep,Marcia L. Fudge,Democrat,Ohio
+223,RepVirginiaFoxx,VirginiaFoxx,400643.0,rep,Virginia Foxx,Republican,North Carolina
+224,jefffortenberry,JeffFortenberry,400640.0,rep,Jeff Fortenberry,Republican,Nebraska
+225,TrentFranks,RepTrentFranks,400141.0,rep,Trent Franks,Republican,Arizona
+226,senatorjeffflake,JeffFlake,400134.0,sen,Jeff Flake,Republican,Arizona
+227,senatorfeinstein,SenFeinstein,300043.0,sen,Dianne Feinstein,Democrat,California
+228,Keith.Ellison,KeithEllison,412215.0,rep,Keith Ellison,Democrat,Minnesota
+229,mikeenzi,SenatorEnzi,300041.0,sen,Michael B. Enzi,Republican,Wyoming
+230,RepAnnaEshoo,RepAnnaEshoo,400124.0,rep,Anna G. Eshoo,Democrat,California
+231,RepEliotLEngel,RepEliotEngel,400122.0,rep,Eliot L. Engel,Democrat,New York
+232,ScottDesJarlaisTN04,DesJarlaisTN04,412477.0,rep,Scott DesJarlais,Republican,Tennessee
+233,RepJeffDuncan,RepJeffDuncan,412472.0,rep,Jeff Duncan,Republican,South Carolina
+234,RepSeanDuffy,RepSeanDuffy,412488.0,rep,Sean P. Duffy,Republican,Wisconsin
+235,RepJeffDenham,RepJeffDenham,412403.0,rep,Jeff Denham,Republican,California
+236,CongressmanTedDeutch,RepTedDeutch,412385.0,rep,Theodore E. Deutch,Democrat,Florida
+237,senatordonnelly,SenDonnelly,412205.0,sen,Joe Donnelly,Democrat,Indiana
+238,CongressmanDent,,400648.0,rep,Charles W. Dent,Republican,Pennsylvania
+239,mdiazbalart,MarioDB,400108.0,rep,Mario Diaz-Balart,Republican,Florida
+240,SenatorDurbin,SenatorDurbin,300038.0,sen,Richard J. Durbin,Democrat,Illinois
+241,CongressmanDuncan,RepJohnDuncanJr,400116.0,rep,"John J. Duncan, Jr.",Republican,Tennessee
+242,usrepmikedoyle,USRepMikeDoyle,400114.0,rep,Michael F. Doyle,Democrat,Pennsylvania
+243,lloyddoggett,RepLloydDoggett,400111.0,rep,Lloyd Doggett,Democrat,Texas
+244,CongresswomanRosaDeLauro,RosaDeLauro,400103.0,rep,Rosa L. DeLauro,Democrat,Connecticut
+245,DianaDeGette,RepDianaDeGette,400101.0,rep,Diana DeGette,Democrat,Colorado
+246,RepPeterDeFazio,RepPeterDeFazio,400100.0,rep,Peter A. DeFazio,Democrat,Oregon
+247,senatorchriscoons,SenCoonsOffice,412390.0,sen,Christopher A. Coons,Democrat,Delaware
+248,RepRickCrawford,RepRickCrawford,412400.0,rep,"Eric A. ""Rick"" Crawford",Republican,Arkansas
+249,CongressmanDavidCicilline,RepCicilline,412470.0,rep,David N. Cicilline,Democrat,Rhode Island
+250,RepJudyChu,RepJudyChu,412379.0,rep,Judy Chu,Democrat,California
+251,CongressmanGerryConnolly,GerryConnolly,412272.0,rep,Gerald E. Connolly,Democrat,Virginia
+252,repmikecoffman,RepMikeCoffman,412271.0,rep,Mike Coffman,Republican,Colorado
+253,CongressmanJasonChaffetz,JasonInTheHouse,412270.0,rep,Jason Chaffetz,Republican,Utah
+254,CongressmanAndreCarson,RepAndreCarson,412258.0,rep,André Carson,Democrat,Indiana
+255,bobcorker,SenBobCorker,412248.0,sen,Bob Corker,Republican,Tennessee
+256,SenatorBobCasey,SenBobCasey,412246.0,sen,"Robert P. Casey, Jr.",Democrat,Pennsylvania
+257,joecourtney,RepJoeCourtney,412193.0,rep,Joe Courtney,Democrat,Connecticut
+258,CongressmanSteveCohen,RepCohen,412236.0,rep,Steve Cohen,Democrat,Tennessee
+259,repyvettedclarke,RepYvetteClarke,412221.0,rep,Yvette D. Clarke,Democrat,New York
+260,152569121550,RepCuellar,400657.0,rep,Henry Cuellar,Democrat,Texas
+261,mike.conaway,ConawayTX11,400655.0,rep,K. Michael Conaway,Republican,Texas
+262,emanuelcleaverii,RepCleaver,400639.0,rep,Emanuel Cleaver,Democrat,Missouri
+263,RepJimCosta,RepJimCosta,400618.0,rep,Jim Costa,Democrat,California
+264,sen.johncornyn,JohnCornyn,300027.0,sen,John Cornyn,Republican,Texas
+265,TomColeOK04,TomColeOK04,400077.0,rep,Tom Cole,Republican,Oklahoma
+266,judgecarter,JudgeCarter,400068.0,rep,John R. Carter,Republican,Texas
+267,109135405838588,,400074.0,rep,Wm. Lacy Clay,Democrat,Missouri
+268,CongressmanCulberson,CongCulberson,400089.0,rep,John Abney Culberson,Republican,Texas
+269,senshelley,SenCapito,400061.0,sen,Shelley Moore Capito,Republican,West Virginia
+270,repjoecrowley,RepJoeCrowley,400087.0,rep,Joseph Crowley,Democrat,New York
+271,RepMichaelCapuano,RepMikeCapuano,400063.0,rep,Michael E. Capuano,Democrat,Massachusetts
+272,susancollins,SenatorCollins,300025.0,sen,Susan M. Collins,Republican,Maine
+273,elijahcummings,RepCummings,400090.0,rep,Elijah E. Cummings,Democrat,Maryland
+274,mikecrapo,MikeCrapo,300030.0,sen,Mike Crapo,Republican,Idaho
+275,JimCooper,RepJimCooper,400081.0,rep,Jim Cooper,Democrat,Tennessee
+276,CongressmanConyers,RepJohnConyers,400080.0,rep,"John Conyers, Jr.",Democrat,Michigan
+277,jameseclyburn,Clyburn,400075.0,rep,James E. Clyburn,Democrat,South Carolina
+278,RepSteveChabot,RepSteveChabot,400071.0,rep,Steve Chabot,Republican,Ohio
+279,tomcarper,SenatorCarper,300019.0,sen,Thomas R. Carper,Democrat,Delaware
+280,senatorbencardin,SenatorCardin,400064.0,sen,Benjamin L. Cardin,Democrat,Maryland
+281,,SenatorCantwell,300018.0,sen,Maria Cantwell,Democrat,Washington
+282,70063393423,KenCalvert,400057.0,rep,Ken Calvert,Republican,California
+283,SenBlumenthal,SenBlumenthal,412490.0,sen,Richard Blumenthal,Democrat,Connecticut
+284,RepLarryBucshon,RepLarryBucshon,412427.0,rep,Larry Bucshon,Republican,Indiana
+285,155220881193244,RepMoBrooks,412395.0,rep,Mo Brooks,Republican,Alabama
+286,DianeBlackTN06,RepDianeBlack,412478.0,rep,Diane Black,Republican,Tennessee
+287,RepKarenBass,RepKarenBass,412404.0,rep,Karen Bass,Democrat,California
+288,CongressmanLouBarletta,RepLouBarletta,412469.0,rep,Lou Barletta,Republican,Pennsylvania
+289,senatorbennet,SenBennetCo,412330.0,sen,Michael F. Bennet,Democrat,Colorado
+290,johnbarrasso,SenJohnBarrasso,412251.0,sen,John Barrasso,Republican,Wyoming
+291,CongressmanBuchanan,VernBuchanan,412196.0,rep,Vern Buchanan,Republican,Florida
+292,GusBilirakis,RepGusBilirakis,412250.0,rep,Gus M. Bilirakis,Republican,Florida
+293,congressmangkbutterfield,GKButterfield,400616.0,rep,G. K. Butterfield,Democrat,North Carolina
+294,RepRobBishop,RepRobBishop,400029.0,rep,Rob Bishop,Republican,Utah
+295,michaelcburgess,MichaelCBurgess,400052.0,rep,Michael C. Burgess,Republican,Texas
+296,marshablackburn,MarshaBlackburn,400032.0,rep,Marsha Blackburn,Republican,Tennessee
+297,JohnBoozman,JohnBoozman,400040.0,sen,John Boozman,Republican,Arkansas
+298,RepRobertBrady,RepBrady,400047.0,rep,Robert A. Brady,Democrat,Pennsylvania
+299,SenatorRichardBurr,SenatorBurr,400054.0,sen,Richard Burr,Republican,North Carolina
+300,,SenSherrodBrown,400050.0,sen,Sherrod Brown,Democrat,Ohio
+301,kevinbrady,RepKevinBrady,400046.0,rep,Kevin Brady,Republican,Texas
+302,SenatorBlunt,RoyBlunt,400034.0,sen,Roy Blunt,Republican,Missouri
+303,,BlumenauerMedia,400033.0,rep,Earl Blumenauer,Democrat,Oregon
+304,sanfordbishop,SanfordBishop,400030.0,rep,"Sanford D. Bishop, Jr.",Democrat,Georgia
+305,RepJoeBarton,RepJoeBarton,400018.0,rep,Joe Barton,Republican,Texas
+306,repjustinamash,,412438.0,rep,Justin Amash,Republican,Michigan
+307,senatorlamaralexander,SenAlexander,300002.0,sen,Lamar Alexander,Republican,Tennessee
+308,RobertAderholt,Robert_Aderholt,400004.0,rep,Robert B. Aderholt,Republican,Alabama
+309,madeleine.bordallo,,400041.0,rep,Madeleine Z. Bordallo,Democrat,Guam
+310,RepDelBene,RepDelBene,412505.0,rep,Suzan K. DelBene,Democrat,Washington
+311,congresswomanbonamici,RepBonamici,412501.0,rep,Suzanne Bonamici,Democrat,Oregon
+312,,SenThadCochran,300023.0,sen,Thad Cochran,Republican,Mississippi
+313,SenatorAngusSKingJr,SenAngusKing,412545.0,sen,"Angus S. King, Jr.",Independent,Maine
+314,MarkAmodeiNV2,MarkAmodeiNV2,412500.0,rep,Mark E. Amodei,Republican,Nevada
+315,RepLujanGrisham,RepLujanGrisham,412558.0,rep,Michelle Lujan Grisham,Democrat,New Mexico
+316,RepDeSantis,RepDeSantis,412526.0,rep,Ron DeSantis,Republican,Florida
+317,congressmanjohndelaney,RepJohnDelaney,412544.0,rep,John K. Delaney,Democrat,Maryland
+318,CongressmanEricSwalwell,RepSwalwell,412514.0,rep,Eric Swalwell,Democrat,California
+319,CongressmanMarkwayneMullin,RepMullin,412568.0,rep,Markwayne Mullin,Republican,Oklahoma
+320,301936109927957,RepJoeKennedy,412543.0,rep,Joseph P. Kennedy III,Democrat,Massachusetts
+321,congresswomansusanwbrooks,SusanWBrooks,412539.0,rep,Susan W. Brooks,Republican,Indiana
+322,RepJackieWalorski,RepWalorski,412538.0,rep,Jackie Walorski,Republican,Indiana
+323,reptomrice,RepTomRice,412572.0,rep,Tom Rice,Republican,South Carolina
+324,repgracemeng,RepGraceMeng,412560.0,rep,Grace Meng,Democrat,New York
+325,RepLukeMesser,RepLukeMesser,412540.0,rep,Luke Messer,Republican,Indiana
+326,RepSeanMaloney,RepSeanMaloney,412562.0,rep,Sean Patrick Maloney,Democrat,New York
+327,CongressmanDennyHeck,RepDennyHeck,412584.0,rep,Denny Heck,Democrat,Washington
+328,CongressmanGeorgeHolding,RepHolding,412553.0,rep,George Holding,Republican,North Carolina
+329,UsRepRickNolan,USRepRickNolan,408211.0,rep,Richard M. Nolan,Democrat,Minnesota
+330,RepMarkTakano,RepMarkTakano,412520.0,rep,Mark Takano,Democrat,California
+331,RepHakeemJeffries,RepJeffries,412561.0,rep,Hakeem S. Jeffries,Democrat,New York
+332,RepDaveJoyce,RepDaveJoyce,412566.0,rep,David P. Joyce,Republican,Ohio
+333,RepLowenthal,RepLowenthal,412521.0,rep,Alan S. Lowenthal,Democrat,California
+334,RepresentativeDougCollins,RepDougCollins,412531.0,rep,Doug Collins,Republican,Georgia
+335,TXRandy14,TXRandy14,412574.0,rep,"Randy K. Weber, Sr.",Republican,Texas
+336,derek.kilmer,RepDerekKilmer,412583.0,rep,Derek Kilmer,Democrat,Washington
+337,RepTulsiGabbard,TulsiPress,412532.0,rep,Tulsi Gabbard,Democrat,Hawaii
+338,SteveDainesMT,SteveDaines,412549.0,sen,Steve Daines,Republican,Montana
+339,CongressmanTedYoho,RepTedYoho,412525.0,rep,Ted S. Yoho,Republican,Florida
+340,RepEsty,RepEsty,412524.0,rep,Elizabeth H. Esty,Democrat,Connecticut
+341,CongresswomanAnnieKuster,RepAnnieKuster,412557.0,rep,Ann M. Kuster,Democrat,New Hampshire
+342,RepDanKildee,RepDanKildee,412546.0,rep,Daniel T. Kildee,Democrat,Michigan
+343,CongressmanMattCartwright,RepCartwright,412571.0,rep,Matt Cartwright,Democrat,Pennsylvania
+344,SenatorTomCotton,SenTomCotton,412508.0,sen,Tom Cotton,Republican,Arkansas
+345,RepCheri,RepCheri,412537.0,rep,Cheri Bustos,Democrat,Illinois
+346,RepAmiBera,RepBera,412512.0,rep,Ami Bera,Democrat,California
+347,CongressmanBillFoster,RepBillFoster,412257.0,rep,Bill Foster,Democrat,Illinois
+348,congressmanpittenger,RepPittenger,412551.0,rep,Robert Pittenger,Republican,North Carolina
+349,Repmarkmeadows,RepMarkMeadows,412552.0,rep,Mark Meadows,Republican,North Carolina
+350,RepLoisFrankel,RepLoisFrankel,412529.0,rep,Lois Frankel,Democrat,Florida
+351,RepRichHudson,RepRichHudson,412550.0,rep,Richard Hudson,Republican,North Carolina
+352,CongressmanMarcVeasey,RepVeasey,412579.0,rep,Marc A. Veasey,Democrat,Texas
+353,USCongressmanFilemonVela,RepFilemonVela,412580.0,rep,Filemon Vela,Democrat,Texas
+354,Rep.ScottPerry,RepScottPerry,412569.0,rep,Scott Perry,Republican,Pennsylvania
+355,CongressmanRaulRuizMD,CongressmanRuiz,412519.0,rep,Raul Ruiz,Democrat,California
+356,RepPaulCook,RepPaulCook,412513.0,rep,Paul Cook,Republican,California
+357,CongressmanKevinCramer,RepKevinCramer,412555.0,rep,Kevin Cramer,Republican,North Dakota
+358,RepChrisCollins,RepChrisCollins,412563.0,rep,Chris Collins,Republican,New York
+359,RepAnnWagner,RepAnnWagner,412548.0,rep,Ann Wagner,Republican,Missouri
+360,senatorelizabethwarren,SenWarren,412542.0,sen,Elizabeth Warren,Democrat,Massachusetts
+361,RepRodneyDavis,RodneyDavis,412536.0,rep,Rodney Davis,Republican,Illinois
+362,RepChrisStewart,RepChrisStewart,412581.0,rep,Chris Stewart,Republican,Utah
+363,RepAndyBarr,RepAndyBarr,412541.0,rep,Andy Barr,Republican,Kentucky
+364,SenatorTedCruz,SenTedCruz,412573.0,sen,Ted Cruz,Republican,Texas
+365,280757931935749,RepDannyDavis,400093.0,rep,Danny K. Davis,Democrat,Illinois
+366,118514606128,RepSamGraves,400158.0,rep,Sam Graves,Republican,Missouri
+367,CongressmanJimBridenstine,RepJBridenstine,412567.0,rep,Jim Bridenstine,Republican,Oklahoma
+368,TammyBaldwin,SenatorBaldwin,400013.0,sen,Tammy Baldwin,Democrat,Wisconsin
+369,RepRobWoodall,RepRobWoodall,412416.0,rep,Rob Woodall,Republican,Georgia
+370,RepRogerWilliams,RepRWilliams,412578.0,rep,Roger Williams,Republican,Texas
+371,RepSusanDavis,RepSusanDavis,400097.0,rep,Susan A. Davis,Democrat,California
+372,CongresswomanTammyDuckworth,RepDuckworth,412533.0,sen,Tammy Duckworth,Democrat,Illinois
+373,betoorourketx16,RepBetoORourke,412575.0,rep,Beto O'Rourke,Democrat,Texas
+374,senatordebfischer,SenatorFischer,412556.0,sen,Deb Fischer,Republican,Nebraska
+375,RepHuffman,RepHuffman,412511.0,rep,Jared Huffman,Democrat,California
+376,SenatorHeidiHeitkamp,SenatorHeitkamp,412554.0,sen,Heidi Heitkamp,Democrat,North Dakota
+377,AndyHarrisMD,RepAndyHarrisMD,412434.0,rep,Andy Harris,Republican,Maryland
+378,DonaldPayneJr,RepDonaldPayne,412506.0,rep,"Donald M. Payne, Jr.",Democrat,New Jersey
+379,CongressmanScottPeters,RepScottPeters,412523.0,rep,Scott H. Peters,Democrat,California
+380,keithrothfus,KeithRothfus,412570.0,rep,Keith J. Rothfus,Republican,Pennsylvania
+381,326420614138023,JoaquinCastrotx,412576.0,rep,Joaquin Castro,Democrat,Texas
+382,RepBradWenstrup,RepBradWenstrup,412564.0,rep,Brad R. Wenstrup,Republican,Ohio
+383,CongressmanDavidValadao,RepDavidValadao,412515.0,rep,David G. Valadao,Republican,California
+384,CongresswomanSinema,RepSinema,412509.0,rep,Kyrsten Sinema,Democrat,Arizona
+385,,,412269.0,sen,Bill Cassidy,Republican,Louisiana
+386,rfrelinghuysen,USRepRodney,400142.0,rep,Rodney P. Frelinghuysen,Republican,New Jersey
+387,senatoralfranken,SenFranken,412378.0,sen,Al Franken,Democrat,Minnesota
+388,,RepGuthrie,412278.0,rep,Brett Guthrie,Republican,Kentucky
+389,RepLaMalfa,RepLaMalfa,412510.0,rep,Doug LaMalfa,Republican,California
+390,USRepKathyCastor,USRepKCastor,412195.0,rep,Kathy Castor,Democrat,Florida
+391,,,412242.0,sen,Amy Klobuchar,Democrat,Minnesota
+392,,SenatorIsakson,400194.0,sen,Johnny Isakson,Republican,Georgia
+393,repcardenas,RepCardenas,412517.0,rep,Tony Cárdenas,Democrat,California
+394,,RepTimWalz,412214.0,rep,Timothy J. Walz,Democrat,Minnesota
+395,repmarkpocan,RepMarkPocan,412585.0,rep,Mark Pocan,Democrat,Wisconsin
+396,RepJuanVargas,RepJuanVargas,412522.0,rep,Juan Vargas,Democrat,California
+397,SenatorKaine,SenKaineOffice,412582.0,sen,Tim Kaine,Democrat,Virginia
+398,SenBrianSchatz,SenBrianSchatz,412507.0,sen,Brian Schatz,Democrat,Hawaii
+399,RepSarbanes,RepSarbanes,412212.0,rep,John P. Sarbanes,Democrat,Maryland
+400,RepJuliaBrownley,JuliaBrownley26,412516.0,rep,Julia Brownley,Democrat,California
+401,,SenatorRisch,412322.0,sen,James E. Risch,Republican,Idaho
+402,RepJoyceBeatty,RepBeatty,412565.0,rep,Joyce Beatty,Democrat,Ohio
+403,RepSanfordSC,RepSanfordSC,400607.0,rep,Mark Sanford,Republican,South Carolina
+404,repjasonsmith,RepJasonSmith,412596.0,rep,Jason Smith,Republican,Missouri
+405,RepChrisSmith,RepChrisSmith,400380.0,rep,Christopher H. Smith,Republican,New Jersey
+406,chrismurphyct,ChrisMurphyCT,412194.0,sen,Christopher Murphy,Democrat,Connecticut
+407,,CoryBooker,412598.0,sen,Cory A. Booker,Democrat,New Jersey
+408,CongresswomanClark,RepKClark,412600.0,rep,Katherine M. Clark,Democrat,Massachusetts
+409,RepByrne,RepByrne,412601.0,rep,Bradley Byrne,Republican,Alabama
+410,RepNewhouse,RepNewhouse,412660.0,rep,Dan Newhouse,Republican,Washington
+411,RepEvanJenkins,RepEvanJenkins,412663.0,rep,Evan H. Jenkins,Republican,West Virginia
+412,RepRatcliffe,RepRatcliffe,412653.0,rep,John Ratcliffe,Republican,Texas
+413,reploudermilk,RepLoudermilk,412624.0,rep,Barry Loudermilk,Republican,Georgia
+414,congressmanbuddycarter,RepBuddyCarter,412622.0,rep,"Earl L. ""Buddy"" Carter",Republican,Georgia
+415,repcurbelo,RepCurbelo,412621.0,rep,Carlos Curbelo,Republican,Florida
+416,CongressmanTomMacArthur,RepTomMacArthur,412643.0,rep,Thomas MacArthur,Republican,New Jersey
+417,RepBost,RepBost,412629.0,rep,Mike Bost,Republican,Illinois
+418,CongresswomanAdams,RepAdams,412607.0,rep,Alma S. Adams,Democrat,North Carolina
+419,RepBarbaraComstock,RepComstock,412658.0,rep,Barbara Comstock,Republican,Virginia
+420,RepPoliquin,RepPoliquin,412633.0,rep,Bruce Poliquin,Republican,Maine
+421,RepMoolenaar,RepMoolenaar,412634.0,rep,John R. Moolenaar,Republican,Michigan
+422,RepEliseStefanik,RepStefanik,412648.0,rep,Elise M. Stefanik,Republican,New York
+423,CongressmanRyanCostello,RepRyanCostello,412651.0,rep,Ryan A. Costello,Republican,Pennsylvania
+424,1579216395649220,RepDavidRouzer,412641.0,rep,David Rouzer,Republican,North Carolina
+425,USRepresentativeGaryPalmer,USRepGaryPalmer,412608.0,rep,Gary J. Palmer,Republican,Alabama
+426,RepMcSally,RepMcSally,412611.0,rep,Martha McSally,Republican,Arizona
+427,reptomemmer,RepTomEmmer,412639.0,rep,Tom Emmer,Republican,Minnesota
+428,reprussell,RepRussell,412650.0,rep,Steve Russell,Republican,Oklahoma
+429,CongressmanRalphAbraham,RepAbraham,412630.0,rep,Ralph Lee Abraham,Republican,Louisiana
+430,RepDavidYoung,RepDavidYoung,412628.0,rep,David Young,Republican,Iowa
+431,RepLeeZeldin,RepLeeZeldin,412646.0,rep,Lee M. Zeldin,Republican,New York
+432,RepJohnKatko,RepJohnKatko,412649.0,rep,John Katko,Republican,New York
+433,CongressmanRyanZinke,RepRyanZinke,412640.0,rep,Ryan K. Zinke,Republican,Montana
+434,RepWesterman,RepWesterman,412610.0,rep,Bruce Westerman,Republican,Arkansas
+435,RepFrenchHill,RepFrenchHill,412609.0,rep,J. French Hill,Republican,Arkansas
+436,RepBrianBabin,RepBrianBabin,412655.0,rep,Brian Babin,Republican,Texas
+437,CongressmanAlexMooney,RepAlexMooney,412662.0,rep,Alexander X. Mooney,Republican,West Virginia
+438,CongressmanDaveTrott,repdavetrott,412636.0,rep,David A. Trott,Republican,Michigan
+439,repkenbuck,RepKenBuck,412619.0,rep,Ken Buck,Republican,Colorado
+440,congressmanrodblum,RepRodBlum,412627.0,rep,Rod Blum,Republican,Iowa
+441,RepMikeBishop,RepMikeBishop,412635.0,rep,Mike Bishop,Republican,Michigan
+442,RepKathleenRice,RepKathleenRice,412647.0,rep,Kathleen M. Rice,Democrat,New York
+443,RepDebbieDingell,RepDebDingell,412637.0,rep,Debbie Dingell,Democrat,Michigan
+444,RepNormaTorres,NormaJTorres,412617.0,rep,Norma J. Torres,Democrat,California
+445,SenatorSasse,SenSasse,412671.0,sen,Ben Sasse,Republican,Nebraska
+446,RepresentativeSteveKnight,SteveKnight25,412614.0,rep,Stephen Knight,Republican,California
+447,SenDanSullivan,SenDanSullivan,412665.0,sen,Dan Sullivan,Republican,Alaska
+448,repmialove,repmialove,412656.0,rep,Mia B. Love,Republican,Utah
+449,CongressmanRickAllen,reprickallen,412625.0,rep,Rick W. Allen,Republican,Georgia
+450,SenatorMikeRounds,SenatorRounds,412669.0,sen,Mike Rounds,Republican,South Dakota
+451,RepMimiWalters,RepMimiWalters,412618.0,rep,Mimi Walters,Republican,California
+452,CongressmanBoyle,RepBrendanBoyle,412652.0,rep,Brendan F. Boyle,Democrat,Pennsylvania
+453,CongressmanJodyHice,congressmanhice,412623.0,rep,Jody B. Hice,Republican,Georgia
+454,reppeteaguilar,reppeteaguilar,412615.0,rep,Pete Aguilar,Democrat,California
+455,RepRubenGallego,RepRubenGallego,412612.0,rep,Ruben Gallego,Democrat,Arizona
+456,SenatorDavidPerdue,sendavidperdue,412666.0,sen,David Perdue,Republican,Georgia
+457,repstaceyplaskett,staceyplaskett,412659.0,rep,Stacey E. Plaskett,Democrat,Virgin Islands
+458,RepBonnieWatsonColeman,RepBonnie,412644.0,rep,Bonnie Watson Coleman,Democrat,New Jersey
+459,HurdOnTheHill,hurdonthehill,412654.0,rep,Will Hurd,Republican,Texas
+460,RepTedLieu,RepTedLieu,412616.0,rep,Ted Lieu,Democrat,California
+461,CongressmanGarretGraves,RepGarretGraves,412631.0,rep,Garret Graves,Republican,Louisiana
+462,RepMarkDeSaulnier,RepDeSaulnier,412613.0,rep,Mark DeSaulnier,Democrat,California
+463,RepMarkWalker,RepMarkWalker,412670.0,rep,Mark Walker,Republican,North Carolina
+464,CongressmanSethMoulton,teammoulton,412632.0,rep,Seth Moulton,Democrat,Massachusetts
+465,repdonbeyer,repdonbeyer,412657.0,rep,"Donald S. Beyer, Jr.",Democrat,Virginia
+466,RepGrothman,RepGrothman,412661.0,rep,Glenn Grothman,Republican,Wisconsin
+467,DonaldNorcrossNJ,DonaldNorcross,412606.0,rep,Donald Norcross,Democrat,New Jersey
+468,395759603917487,RepLawrence,412638.0,rep,Brenda L. Lawrence,Democrat,Michigan
+469,RepDaveBrat,RepDaveBrat,412605.0,rep,Dave Brat,Republican,Virginia
+470,reptrentkelly,reptrentkelly,412673.0,rep,Trent Kelly,Republican,Mississippi
+471,RepRohrabacher,,400343.0,rep,Dana Rohrabacher,Republican,California
+472,Rep-Daniel-M-Donovan-867632656644580,RepDanDonovan,412672.0,rep,"Daniel M. Donovan, Jr.",Republican,New York
+473,replahood,RepLaHood,412674.0,rep,Darin LaHood,Republican,Illinois
